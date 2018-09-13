@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Создано Microsoft Visio, экспорт SVG Автообновление - automatic update (on off).svg Страница-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="0.322361in" height="0.330928in"
+		viewBox="0 0 23.21 23.8268" xml:space="preserve" color-interpolation-filters="sRGB" class="st2">
+	<v:documentProperties v:langID="1049" v:metric="true" v:viewMarkup="false"/>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#000000;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st2 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>Страница-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="9"
+				v:shadowOffsetY="-9"/>
+		<g id="group6804-1" transform="translate(0.375,-0.375)" v:mID="6804" v:groupContext="group">
+			<title>Лист.6804</title>
+			<g id="shape6805-2" v:mID="6805" v:groupContext="shape">
+				<title>Лист.6805</title>
+				<path d="M11.23 23.83 A11.1272 11.1272 0 0 1 2.54 5.62 L0.65 3.79 L8.11 1.82 L6.15 9.23 L4.38 7.53 A8.51815 8.51815
+							 -90.13 0 0 11.23 21.27 L11.23 23.83 Z" class="st1"/>
+			</g>
+			<g id="shape6806-4" v:mID="6806" v:groupContext="shape" transform="translate(22.46,24.5768) rotate(180)">
+				<title>Лист.6806</title>
+				<path d="M11.23 23.83 A11.1272 11.1272 0 0 1 2.54 5.62 L0.65 3.79 L8.11 1.82 L6.15 9.23 L4.38 7.53 A8.51815 8.51815
+							 -90.13 0 0 11.23 21.27 L11.23 23.83 Z" class="st1"/>
+			</g>
+			<g id="shape6807-6" v:mID="6807" v:groupContext="shape" transform="translate(6.473,-11.4791)">
+				<title>Лист.6807</title>
+				<path d="M7.45 20.06 A4.61871 4.61871 -180 0 0 0 23.83 L1.31 23.83 A3.29481 3.29481 0 0 1 6.4 21.04 L5.38 22.06 A56.8447
+							 56.8447 -180 0 0 9.59 23.17 L8.46 19.02 L7.45 20.06 Z" class="st1"/>
+			</g>
+			<g id="shape6808-8" v:mID="6808" v:groupContext="shape" transform="translate(16.0674,36.1746) rotate(180)">
+				<title>Лист.6808</title>
+				<path d="M7.45 20.06 A4.61871 4.61871 -180 0 0 0 23.83 L1.31 23.83 A3.29481 3.29481 0 0 1 6.4 21.04 L5.38 22.06 A56.8447
+							 56.8447 -180 0 0 9.59 23.17 L8.46 19.02 L7.45 20.06 Z" class="st1"/>
+			</g>
+		</g>
+	</g>
+</svg>

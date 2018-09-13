@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Создано Microsoft Visio, экспорт SVG ISP платформа.svg Страница-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="2.25605in" height="2.00352in"
+		viewBox="0 0 162.436 144.254" xml:space="preserve" color-interpolation-filters="sRGB" class="st6">
+	<v:documentProperties v:langID="1049" v:metric="true" v:viewMarkup="false"/>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {visibility:visible}
+		.st2 {fill:#000000;fill-opacity:0.4;filter:url(#filter_2.6666667461395);stroke:none;stroke-linecap:round;stroke-linejoin:round}
+		.st3 {fill:#b1c902;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st4 {fill:#96c00e;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st5 {fill:#79b519;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st6 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Filters">
+		<filter id="filter_2.6666667461395">
+			<feGaussianBlur stdDeviation="2.6666667461395"/>
+		</filter>
+	</defs>
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>Страница-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<g id="group8-1" transform="translate(1.87868,-6.12134)" v:mID="8" v:groupContext="group">
+			<title>Лист.8</title>
+			<g id="shape9-2" v:mID="9" v:groupContext="shape" transform="translate(0,-70.1858)">
+				<title>Лист.9</title>
+				<g id="shadow9-3" v:groupContext="shadow" v:shadowOffsetX="2.12132" v:shadowOffsetY="-2.12132" v:shadowType="1"
+						transform="matrix(1,0,0,1,2.12132,2.12132)" class="st1">
+					<path d="M0 112.38 L80.39 78.19 L154.44 106.12 L75.92 144.25 L0 112.38 Z" class="st2"/>
+				</g>
+				<path d="M0 112.38 L80.39 78.19 L154.44 106.12 L75.92 144.25 L0 112.38 Z" class="st3"/>
+			</g>
+			<g id="shape10-7" v:mID="10" v:groupContext="shape" transform="translate(0.304377,-34.7348)">
+				<title>Лист.10</title>
+				<g id="shadow10-8" v:groupContext="shadow" v:shadowOffsetX="2.12132" v:shadowOffsetY="-2.12132" v:shadowType="1"
+						transform="matrix(1,0,0,1,2.12132,2.12132)" class="st1">
+					<path d="M76.15 119.72 L124.35 96.45 L154.13 106.48 L75.97 144.25 L0 112.56 A2043.04 2043.04 0 0 1 29.95 100.48
+								 L76.15 119.72 Z" class="st2"/>
+				</g>
+				<path d="M76.15 119.72 L124.35 96.45 L154.13 106.48 L75.97 144.25 L0 112.56 A2043.04 2043.04 0 0 1 29.95 100.48 L76.15
+							 119.72 Z" class="st4"/>
+			</g>
+			<g id="shape11-12" v:mID="11" v:groupContext="shape" transform="translate(0.304385,0)">
+				<title>Лист.11</title>
+				<g id="shadow11-13" v:groupContext="shadow" v:shadowOffsetX="2.12132" v:shadowOffsetY="-2.12132" v:shadowType="1"
+						transform="matrix(1,0,0,1,2.12132,2.12132)" class="st1">
+					<path d="M76.15 119.72 L124.35 96.45 L154.13 106.48 L75.97 144.25 L0 112.56 A2043.04 2043.04 0 0 1 29.95 100.48
+								 L76.15 119.72 Z" class="st2"/>
+				</g>
+				<path d="M76.15 119.72 L124.35 96.45 L154.13 106.48 L75.97 144.25 L0 112.56 A2043.04 2043.04 0 0 1 29.95 100.48 L76.15
+							 119.72 Z" class="st5"/>
+			</g>
+		</g>
+	</g>
+</svg>

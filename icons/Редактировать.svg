@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Создано Microsoft Visio, экспорт SVG Редактировать.svg Страница-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="0.398551in" height="0.346667in"
+		viewBox="0 0 28.6957 24.96" xml:space="preserve" color-interpolation-filters="sRGB" class="st2">
+	<v:documentProperties v:langID="1049" v:metric="true" v:viewMarkup="false"/>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#000000;stroke:none;stroke-linecap:butt;stroke-width:0.75}
+		.st2 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>Страница-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="9"
+				v:shadowOffsetY="-9"/>
+		<g id="shape1917-1" v:mID="1917" v:groupContext="shape" transform="translate(0.75,-0.75)">
+			<title>Правка.1917</title>
+			<v:userDefs>
+				<v:ud v:nameU="msvShapeCategories" v:prompt="" v:val="VT4(Icon)"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M23.55 4.22 L22.11 2.75 A1.28922 1.30985 -180 0 0 20.26 2.78 L7.66 15.59 L6.03 20.57 L10.97 18.96 L23.58 6.15
+						 A1.37474 1.39673 -180 0 0 23.55 4.22 ZM19.59 5.36 L21.04 6.83 L20.37 7.5 L18.93 6.04 L19.59 5.36 ZM8.03
+						 18.54 A73.3783 74.5524 0 0 1 8.82 16.31 L8.98 16.15 L10.42 17.61 L10.26 17.77 A148.581 150.958 0 0 1 8.03
+						 18.54 ZM11.08 16.94 L9.64 15.47 L18.27 6.71 L19.71 8.17 L11.08 16.94 ZM21.7 6.15 L20.26 4.69 L21.2 3.73
+						 A2455.33 2494.62 0 0 1 22.64 5.2 A553.492 562.348 0 0 1 21.7 6.15 ZM17.96 13.08 L17.96 23.22 L1.71 23.22
+						 L1.71 3.24 L12.83 3.24 L12.83 8.45 L13.48 8.45 L14.34 7.58 L13.68 7.58 L13.68 3.46 L16.04 5.85 L17.32 4.55
+						 L14.32 1.5 L0 1.5 L0 24.96 L19.67 24.96 L19.67 11.34 L17.96 13.08 Z" class="st1"/>
+		</g>
+	</g>
+</svg>

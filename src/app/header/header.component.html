@@ -1,0 +1,19 @@
+<header> 
+    <div *ngIf="openNavigationMenu == null" class="l-header-search">
+            <input type="text" class="search-field">
+        </div>
+    <div (click)="navigationMenu()" class="l-header-menu" [ngClass]="openNavigationMenu == null ? ' is-menu-active' : ''">
+        <app-burger-menu class='l-header-hamburger'></app-burger-menu>
+    </div>
+    <div *ngIf="openNavigationMenu != null" class="l-header-panel-system">
+        <app-panel></app-panel>       
+    </div>
+    <div (click)='profileMenu()' class="l-header-profile" [ngClass]="openProfileMenu == null ? 'is-menu-active' : ''">
+        <app-profile></app-profile>   
+    </div>
+</header>
+<div>
+    <app-nav-menu *ngIf="openNavigationMenu == null"></app-nav-menu>
+    <app-profile-menu *ngIf="openProfileMenu == null"></app-profile-menu>
+</div>
+

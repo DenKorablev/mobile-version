@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Создано Microsoft Visio, экспорт SVG File-check-2.svg Страница-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="0.281441in" height="0.339758in"
+		viewBox="0 0 20.2637 24.4626" xml:space="preserve" color-interpolation-filters="sRGB" class="st6">
+	<v:documentProperties v:langID="1049" v:metric="true" v:viewMarkup="false"/>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#000000;stroke:none;stroke-linecap:butt;stroke-width:1.54688}
+		.st2 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st3 {fill:#ffffff;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st4 {fill:#ffffff;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st5 {fill:#0c0c0c;stroke:none;stroke-linecap:butt;stroke-width:1.54688}
+		.st6 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>Страница-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<g id="shape500-1" v:mID="500" v:groupContext="shape" transform="translate(1.54687,-1.54687)">
+			<title>Лист.500</title>
+			<path d="M15.44 7.18 L11.93 3.68 C11.56 3.31 11.05 3.09 10.52 3.09 L2 3.09 C0.9 3.1 0 4 0 5.1 L0 22.46 C0 23.57 0.9 24.46
+						 2 24.46 L14.02 24.46 C15.13 24.46 16.02 23.57 16.02 22.46 L16.02 8.6 C16.02 8.07 15.81 7.56 15.44 7.18 ZM14.49
+						 8.13 C14.58 8.22 14.64 8.32 14.67 8.44 L10.68 8.44 L10.68 4.45 C10.8 4.48 10.9 4.54 10.99 4.63 L14.49 8.13
+						 ZM14.02 23.13 L2 23.13 C1.64 23.13 1.34 22.83 1.34 22.46 L1.34 5.1 C1.34 4.73 1.64 4.43 2 4.43 L9.35 4.43
+						 L9.35 8.77 C9.35 9.33 9.79 9.77 10.35 9.77 L14.69 9.77 L14.69 22.46 C14.69 22.83 14.39 23.13 14.02 23.13
+						 Z" class="st1"/>
+		</g>
+		<g id="shape503-3" v:mID="503" v:groupContext="shape" transform="translate(4.8978,-14.2959)">
+			<title>Лист.503</title>
+			<path d="M0 24.46 L8.46 24.46" class="st2"/>
+		</g>
+		<g id="shape504-6" v:mID="504" v:groupContext="shape" transform="translate(4.8978,-11.5922)">
+			<title>Лист.504</title>
+			<path d="M0 24.46 L7.37 24.46" class="st2"/>
+		</g>
+		<g id="shape505-9" v:mID="505" v:groupContext="shape" transform="translate(4.8978,-8.88855)">
+			<title>Лист.505</title>
+			<path d="M0 24.46 L8.22 24.46" class="st2"/>
+		</g>
+		<g id="shape506-12" v:mID="506" v:groupContext="shape" transform="translate(4.8978,-6.18487)">
+			<title>Лист.506</title>
+			<path d="M0 24.46 L9.01 24.46" class="st2"/>
+		</g>
+		<g id="group507-15" transform="translate(10.2509,-5.22508)" v:mID="507" v:groupContext="group">
+			<title>Лист.507</title>
+			<g id="shape508-16" v:mID="508" v:groupContext="shape">
+				<title>Лист.508</title>
+				<ellipse cx="4.8189" cy="19.6437" rx="4.8189" ry="4.8189" class="st3"/>
+			</g>
+			<g id="shape509-18" v:mID="509" v:groupContext="shape" transform="translate(0.670977,-0.670977)">
+				<title>Лист.509</title>
+				<ellipse cx="4.14792" cy="20.3147" rx="4.14792" ry="4.14792" class="st4"/>
+			</g>
+			<g id="group510-20" transform="translate(2.40945,-2.94357)" v:mID="510" v:groupContext="group">
+				<title>Лист.510</title>
+				<g id="shape511-21" v:mID="511" v:groupContext="shape">
+					<title>Лист.511</title>
+					<path d="M4.75 21.58 L1.91 24.39 C1.81 24.49 1.66 24.49 1.57 24.39 L0.07 22.88 C-0.02 22.79 -0.02 22.64 0.07
+								 22.54 L0.52 22.09 C0.62 22 0.77 22 0.86 22.09 L1.74 22.98 L3.96 20.78 C4.05 20.69 4.21 20.69 4.3
+								 20.78 L4.75 21.24 C4.84 21.33 4.84 21.48 4.75 21.58 Z" class="st5"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

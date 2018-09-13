@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Создано Microsoft Visio, экспорт SVG Group - группировать.svg Страница-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="0.365896in" height="0.254379in"
+		viewBox="0 0 26.3445 18.3153" xml:space="preserve" color-interpolation-filters="sRGB" class="st3">
+	<v:documentProperties v:langID="1049" v:metric="true" v:viewMarkup="false"/>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#000000;stroke:none;stroke-linecap:butt;stroke-width:0.75}
+		.st2 {fill:none;stroke:#000000;stroke-linecap:butt;stroke-width:1.5}
+		.st3 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>Страница-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="9"
+				v:shadowOffsetY="-9"/>
+		<g id="group2095-1" transform="translate(0.75,-0.75)" v:mID="2095" v:groupContext="group">
+			<title>Лист.2095</title>
+			<g id="group2088-2" v:mID="2088" v:groupContext="group">
+				<title>Лист.2088</title>
+				<g id="shape2089-3" v:mID="2089" v:groupContext="shape" transform="translate(18.3153,1.5) rotate(90)">
+					<title>Лист.2089</title>
+					<rect x="0" y="16.085" width="16.8153" height="2.23034" class="st1"/>
+				</g>
+				<g id="shape2090-5" v:mID="2090" v:groupContext="shape" transform="translate(2.9976E-15,-14.585)">
+					<title>Лист.2090</title>
+					<rect x="0" y="16.085" width="7.44768" height="2.23034" class="st1"/>
+				</g>
+				<g id="shape2091-7" v:mID="2091" v:groupContext="shape">
+					<title>Лист.2091</title>
+					<rect x="0" y="16.085" width="7.44768" height="2.23034" class="st1"/>
+				</g>
+			</g>
+			<g id="group2092-9" transform="translate(9.74302,-1.40364)" v:mID="2092" v:groupContext="group">
+				<title>Лист.2092</title>
+				<g id="shape2093-10" v:mID="2093" v:groupContext="shape" transform="translate(6.39488E-14,-8.35302)">
+					<title>Лист.2093</title>
+					<rect x="0" y="12.6603" width="14.3515" height="5.65502" class="st2"/>
+				</g>
+				<g id="shape2094-12" v:mID="2094" v:groupContext="shape">
+					<title>Лист.2094</title>
+					<rect x="0" y="12.6603" width="14.3515" height="5.65502" class="st2"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

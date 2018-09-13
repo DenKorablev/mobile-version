@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Создано Microsoft Visio, экспорт SVG Пользователь (личный набор) 1.svg Страница-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="0.372592in" height="0.420399in"
+		viewBox="0 0 26.8266 30.2687" xml:space="preserve" color-interpolation-filters="sRGB" class="st2">
+	<v:documentProperties v:langID="1049" v:metric="true" v:viewMarkup="false"/>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#000000;stroke:none;stroke-linecap:butt;stroke-width:1.36607}
+		.st2 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>Страница-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="9"
+				v:shadowOffsetY="-9"/>
+		<g id="shape1873-1" v:mID="1873" v:groupContext="shape" transform="translate(1.36607,-1.36607)">
+			<title>Лист.1873</title>
+			<path d="M16.87 18.22 C15.32 18.22 14.58 19.08 12.05 19.08 C9.51 19.08 8.78 18.22 7.23 18.22 C3.24 18.22 0 21.46 0 25.45
+						 L0 27.69 C0 29.11 1.16 30.27 2.58 30.27 L21.51 30.27 C22.94 30.27 24.09 29.11 24.09 27.69 L24.09 25.45 C24.09
+						 21.46 20.86 18.22 16.87 18.22 ZM22.37 27.69 C22.37 28.16 21.99 28.55 21.51 28.55 L2.58 28.55 C2.11 28.55
+						 1.72 28.16 1.72 27.69 L1.72 25.45 C1.72 22.41 4.19 19.94 7.23 19.94 C8.28 19.94 9.33 20.8 12.05 20.8 C14.76
+						 20.8 15.81 19.94 16.87 19.94 C19.9 19.94 22.37 22.41 22.37 25.45 L22.37 27.69 ZM12.05 16.5 C15.85 16.5 18.93
+						 13.42 18.93 9.62 C18.93 5.81 15.85 2.73 12.05 2.73 C8.24 2.73 5.16 5.81 5.16 9.62 C5.16 13.42 8.24 16.5
+						 12.05 16.5 ZM12.05 4.45 C14.89 4.45 17.21 6.77 17.21 9.62 C17.21 12.46 14.89 14.78 12.05 14.78 C9.2 14.78
+						 6.88 12.46 6.88 9.62 C6.88 6.77 9.2 4.45 12.05 4.45 Z" class="st1"/>
+		</g>
+	</g>
+</svg>

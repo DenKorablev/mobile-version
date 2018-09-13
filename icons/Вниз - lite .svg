@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Создано Microsoft Visio, экспорт SVG Вниз - lite .svg Страница-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="0.227496in" height="0.369658in"
+		viewBox="0 0 16.3797 26.6154" xml:space="preserve" color-interpolation-filters="sRGB" class="st2">
+	<v:documentProperties v:langID="1049" v:metric="true" v:viewMarkup="false"/>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#000000;stroke:none;stroke-linecap:butt;stroke-width:1.36607}
+		.st2 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>Страница-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="9"
+				v:shadowOffsetY="-9"/>
+		<g id="group572-1" transform="translate(27.919,1.36607) rotate(90)" v:mID="572" v:groupContext="group">
+			<title>Лист.572</title>
+			<g id="shape573-2" v:mID="573" v:groupContext="shape">
+				<title>Лист.573</title>
+				<path d="M16.58 13.09 L16.2 13.47 C15.95 13.72 15.95 14.12 16.2 14.37 L20.68 18.82 L0.64 18.82 C0.29 18.82 0 19.11
+							 0 19.46 L0 20 C0 20.35 0.29 20.64 0.64 20.64 L20.68 20.64 L16.2 25.08 C15.95 25.33 15.95 25.74 16.2
+							 25.99 L16.58 26.37 C16.83 26.62 17.24 26.62 17.49 26.37 L23.7 20.18 C23.95 19.93 23.95 19.53 23.7 19.28
+							 L17.49 13.09 C17.24 12.84 16.83 12.84 16.58 13.09 Z" class="st1"/>
+			</g>
+		</g>
+	</g>
+</svg>

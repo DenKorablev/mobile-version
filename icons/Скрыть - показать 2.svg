@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Создано Microsoft Visio, экспорт SVG Скрыть - показать 2.svg Страница-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="0.231626in" height="0.20917in"
+		viewBox="0 0 16.6771 15.0602" xml:space="preserve" color-interpolation-filters="sRGB" class="st2">
+	<v:documentProperties v:langID="1049" v:metric="true" v:viewMarkup="false"/>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#000000;stroke:none;stroke-linecap:butt;stroke-width:1.0625}
+		.st2 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>Страница-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="9"
+				v:shadowOffsetY="-9"/>
+		<g id="shape833-1" v:mID="833" v:groupContext="shape" transform="translate(1.0625,-1.02193)">
+			<title>Лист.833</title>
+			<path d="M8.12 12.34 L8.67 13.08 A8.38168 8.38168 0 0 1 7.28 13.2 C4.25 13.2 1.59 11.58 0.17 9.17 A1.21265 1.21265 0
+						 0 1 0.17 7.94 C0.82 6.83 1.73 5.89 2.82 5.2 L3.3 5.85 C2.3 6.48 1.46 7.34 0.86 8.35 a0.404426 0.404426 -180
+						 0 0 1.9984E-15 0.410439 C2.18 10.98 4.6 12.39 7.28 12.39 C7.56 12.39 7.84 12.38 8.12 12.34 ZM3.59 6.23 C3.36
+						 6.72 3.23 7.27 3.23 7.84 C3.23 10.01 5.03 11.79 7.28 11.79 C7.42 11.79 7.56 11.78 7.69 11.77 L7.1 10.97
+						 C5.4 10.89 4.04 9.52 4.04 7.84 A3.04381 3.04381 0 0 1 4.16 7 L3.59 6.23 ZM14.38 9.17 C13.53 10.61 12.24
+						 11.77 10.69 12.47 L12.13 14.41 C12.23 14.54 12.2 14.74 12.07 14.84 L11.9 14.96 C11.77 15.06 11.57 15.03
+						 11.47 14.9 L2.42 2.7 C2.32 2.56 2.35 2.37 2.49 2.27 L2.65 2.14 C2.79 2.04 2.98 2.07 3.08 2.21 L4.65 4.33
+						 C5.48 4.05 6.36 3.9 7.28 3.9 C10.3 3.9 12.96 5.52 14.38 7.94 A1.2128 1.2128 0 0 1 14.38 9.17 ZM10.51 7.84
+						 C10.51 6.11 9.06 4.71 7.28 4.71 C6.57 4.71 5.91 4.93 5.38 5.31 L6.26 6.49 C6.77 6.07 7.47 6.02 8.04 6.32
+						 L8.04 6.32 C7.67 6.32 7.37 6.62 7.37 6.98 C7.37 7.35 7.67 7.65 8.04 7.65 C8.4 7.65 8.7 7.35 8.7 6.98 L8.7
+						 6.98 C9.09 7.7 8.88 8.61 8.18 9.08 L9.15 10.4 C9.97 9.83 10.51 8.9 10.51 7.84 ZM13.69 8.35 C12.95 7.1 11.83
+						 6.06 10.46 5.42 C11.86 7.16 11.52 9.72 9.64 11.05 L10.2 11.8 C11.65 11.19 12.88 10.13 13.69 8.76 a0.404426
+						 0.404426 -180 0 0 2.5264E-05 -0.410464 Z" class="st1"/>
+		</g>
+	</g>
+</svg>

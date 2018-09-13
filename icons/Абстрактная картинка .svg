@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Создано Microsoft Visio, экспорт SVG Абстрактная картинка .svg Страница-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="0.164425in" height="0.164425in"
+		viewBox="0 0 11.8386 11.8386" xml:space="preserve" color-interpolation-filters="sRGB" class="st3">
+	<v:documentProperties v:langID="1049" v:metric="true" v:viewMarkup="false"/>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#ffffff;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st2 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st3 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>Страница-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="9"
+				v:shadowOffsetY="-9"/>
+		<g id="group1585-1" transform="translate(0.25,-0.25)" v:mID="1585" v:groupContext="group">
+			<title>Лист.1585</title>
+			<g id="shape1586-2" v:mID="1586" v:groupContext="shape">
+				<title>Лист.1586</title>
+				<rect x="0" y="0.5" width="11.3386" height="11.3386" class="st1"/>
+			</g>
+			<g id="shape1587-4" v:mID="1587" v:groupContext="shape">
+				<title>Лист.1587</title>
+				<path d="M0 6.24 L2.13 3.55 L8.5 11.84" class="st2"/>
+			</g>
+			<g id="shape1588-7" v:mID="1588" v:groupContext="shape" transform="translate(5.2568,-1.34645)">
+				<title>Лист.1588</title>
+				<path d="M0 8.96 L2.18 6.85 L6.08 11.84" class="st2"/>
+			</g>
+			<g id="shape1589-10" v:mID="1589" v:groupContext="shape" transform="translate(7.79528,-7.7244)">
+				<title>Лист.1589</title>
+				<ellipse cx="1.06299" cy="10.7756" rx="1.06299" ry="1.06299" class="st1"/>
+			</g>
+		</g>
+	</g>
+</svg>

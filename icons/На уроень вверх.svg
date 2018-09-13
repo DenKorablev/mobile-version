@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Создано Microsoft Visio, экспорт SVG На уроень вверх.svg Страница-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="0.431668in" height="0.243121in"
+		viewBox="0 0 31.0801 17.5047" xml:space="preserve" color-interpolation-filters="sRGB" class="st3">
+	<v:documentProperties v:langID="1049" v:metric="true" v:viewMarkup="false"/>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#000000;stroke:none;stroke-width:0.75}
+		.st2 {fill:#000000;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st3 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>Страница-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="9"
+				v:shadowOffsetY="-9"/>
+		<g id="group2059-1" transform="translate(0.75,-0.75)" v:mID="2059" v:groupContext="group">
+			<title>Лист.2059</title>
+			<g id="shape1538-2" v:mID="1538" v:groupContext="shape">
+				<title>Лист.1538</title>
+				<path d="M8.91 7.32 L8.91 13.14 L16.05 13.14 L16.05 17.5 L3.57 17.5 L3.57 7.32 L0 7.32 L6.42 1.5 L11.95 7.32 L8.91
+							 7.32 Z" class="st1"/>
+			</g>
+			<g id="shape1539-4" v:mID="1539" v:groupContext="shape" transform="translate(18.8731,-7.0699E-13)">
+				<title>Лист.1539</title>
+				<rect x="0" y="13.2641" width="4.12747" height="4.24055" class="st2"/>
+			</g>
+			<g id="shape1540-6" v:mID="1540" v:groupContext="shape" transform="translate(25.8276,-7.0699E-13)">
+				<title>Лист.1540</title>
+				<rect x="0" y="13.2641" width="4.12747" height="4.24055" class="st2"/>
+			</g>
+		</g>
+	</g>
+</svg>

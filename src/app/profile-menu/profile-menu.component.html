@@ -1,0 +1,35 @@
+<div class="profile-menu">
+    <div class="l-menu-title">
+        <span class="l-menu-item">Петр Петрович/Indusoft<br>
+            <span class="l-menu-small-text">Администратор системы</span>
+        </span>  
+    </div>
+    <ul  class="l-menu indent-null l-menu-border">
+        <li class="l-menu-item" *ngFor="let item of profileItems">
+          <a>
+              {{item}}
+          </a>
+        </li>
+    </ul> 
+    <ul  class="l-menu indent-null l-menu-border">
+        <li class="l-menu-item" *ngFor="let item of settingItems">
+          <a>
+              {{item}}
+          </a>
+        </li>
+    </ul> 
+    <ul  class="l-menu indent-null l-menu-border">
+        <li class="l-menu-item" *ngFor="let item of modeItems">
+          <a>
+              {{item}}
+          </a>
+        </li>
+    </ul> 
+    <ul  class="l-menu indent-null l-menu-border">
+        <li class="l-menu-item">
+          <a>Завершить сеанс</a>
+        </li>
+    </ul> 
+    
+</div>
+

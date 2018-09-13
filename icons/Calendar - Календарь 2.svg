@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Создано Microsoft Visio, экспорт SVG Calendar - Календарь 2.svg Страница-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="0.47006in" height="0.424921in"
+		viewBox="0 0 33.8443 30.5943" xml:space="preserve" color-interpolation-filters="sRGB" class="st2">
+	<v:documentProperties v:langID="1049" v:metric="true" v:viewMarkup="false"/>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#000000;stroke:none;stroke-linecap:butt;stroke-width:0.75}
+		.st2 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>Страница-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="9"
+				v:shadowOffsetY="-9"/>
+		<g id="shape825-1" v:mID="825" v:groupContext="shape" transform="translate(0.75,-0.75)">
+			<title>Календарь</title>
+			<v:userDefs>
+				<v:ud v:nameU="msvShapeCategories" v:prompt="" v:val="VT4(Icon)"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M22.86 28.52 L27.02 28.52 L27.02 24.36 L22.86 24.36 L22.86 28.52 ZM2.08 24.36 L2.08 28.52 L6.23 28.52 L6.23
+						 24.36 L2.08 24.36 ZM6.23 8.77 L2.08 8.77 L2.08 12.93 L6.23 12.93 L6.23 8.77 ZM23.9 12.93 L27.02 12.93 L27.02
+						 8.77 L22.86 8.77 L22.86 11.89 L23.9 11.89 L23.9 12.93 ZM23.9 18.13 L27.02 18.13 L27.02 13.97 L23.9 13.97
+						 L23.9 18.13 ZM22.86 20.2 L22.86 23.32 L27.02 23.32 L27.02 19.16 L23.9 19.16 L23.9 20.2 L22.86 20.2 ZM17.66
+						 23.32 L21.82 23.32 L21.82 20.2 L17.66 20.2 L17.66 23.32 ZM17.66 24.36 L17.66 28.52 L21.82 28.52 L21.82 24.36
+						 L17.66 24.36 ZM12.47 24.36 L12.47 28.52 L16.63 28.52 L16.63 24.36 L12.47 24.36 ZM11.43 24.36 L7.27 24.36
+						 L7.27 28.52 L11.43 28.52 L11.43 24.36 ZM7.27 19.16 L7.27 23.32 L11.43 23.32 L11.43 19.16 L7.27 19.16 ZM6.23
+						 19.16 L2.08 19.16 L2.08 23.32 L6.23 23.32 L6.23 19.16 ZM6.23 18.13 L6.23 13.97 L2.08 13.97 L2.08 18.13 L6.23
+						 18.13 ZM11.43 13.97 L7.27 13.97 L7.27 18.13 L11.43 18.13 L11.43 13.97 ZM11.43 12.93 L11.43 8.77 L7.27 8.77
+						 L7.27 12.93 L11.43 12.93 ZM16.63 11.89 L16.63 8.77 L12.47 8.77 L12.47 12.93 L15.59 12.93 L15.59 11.89 L16.63
+						 11.89 ZM15.59 19.16 L12.47 19.16 L12.47 23.32 L16.63 23.32 L16.63 20.2 L15.59 20.2 L15.59 19.16 ZM15.59
+						 18.13 L15.59 13.97 L12.47 13.97 L12.47 18.13 L15.59 18.13 ZM21.82 18.13 L21.82 13.97 L17.66 13.97 L17.66
+						 18.13 L21.82 18.13 ZM21.82 11.89 L21.82 8.77 L17.66 8.77 L17.66 11.89 L21.82 11.89 ZM2.08 4.62 L2.08 7.73
+						 L27.02 7.73 L27.02 4.62 L25.98 4.62 L25.98 6.7 L23.9 6.7 L23.9 4.62 L20.78 4.62 L20.78 6.7 L18.7 6.7 L18.7
+						 4.62 L15.59 4.62 L15.59 6.7 L13.51 6.7 L13.51 4.62 L10.39 4.62 L10.39 6.7 L8.31 6.7 L8.31 4.62 L5.2 4.62
+						 L5.2 6.7 L3.12 6.7 L3.12 4.62 L2.08 4.62 ZM25.98 2.54 L29.09 2.54 L29.09 30.59 L0 30.59 L0 2.54 L3.12 2.54
+						 L3.12 1.5 L5.2 1.5 L5.2 2.54 L8.31 2.54 L8.31 1.5 L10.39 1.5 L10.39 2.54 L13.51 2.54 L13.51 1.5 L15.59 1.5
+						 L15.59 2.54 L18.7 2.54 L18.7 1.5 L20.78 1.5 L20.78 2.54 L23.9 2.54 L23.9 1.5 L25.98 1.5 L25.98 2.54 Z"
+					class="st1"/>
+		</g>
+	</g>
+</svg>

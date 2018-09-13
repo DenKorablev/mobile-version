@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Создано Microsoft Visio, экспорт SVG Свернуть все.svg Страница-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="0.354136in" height="0.355442in"
+		viewBox="0 0 25.4978 25.5919" xml:space="preserve" color-interpolation-filters="sRGB" class="st4">
+	<v:documentProperties v:langID="1049" v:metric="true" v:viewMarkup="false"/>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:none;stroke:#000000;stroke-linecap:butt;stroke-width:1.5}
+		.st2 {stroke:#000000;stroke-linecap:butt;stroke-width:1.5}
+		.st3 {fill:#000000;stroke:#000000;stroke-linecap:butt;stroke-width:1.5}
+		.st4 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>Страница-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="9"
+				v:shadowOffsetY="-9"/>
+		<g id="group1161-1" transform="translate(1.5,-1.5)" v:mID="1161" v:groupContext="group">
+			<title>Лист.1161</title>
+			<g id="shape1162-2" v:mID="1162" v:groupContext="shape">
+				<title>Лист.1162</title>
+				<rect x="0" y="7.16652" width="18.4253" height="18.4253" class="st1"/>
+			</g>
+			<g id="shape1163-4" v:mID="1163" v:groupContext="shape" transform="translate(3.67123,-1.78859)">
+				<title>Лист.1163</title>
+				<path d="M0 6.77 L16.94 6.77 L16.94 25.59" class="st2"/>
+			</g>
+			<g id="shape1164-7" v:mID="1164" v:groupContext="shape" transform="translate(5.55388,-3.67125)">
+				<title>Лист.1164</title>
+				<path d="M16.94 25.59 L16.94 6.67 L0 6.77" class="st2"/>
+			</g>
+			<g id="shape1165-10" v:mID="1165" v:groupContext="shape" transform="translate(5.70754,-8.61919)">
+				<title>Добавить.2872</title>
+				<v:userDefs>
+					<v:ud v:nameU="msvShapeCategories" v:prompt="" v:val="VT4(Icon)"/>
+					<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<path d="M7.41 25.59 L4.5 25.59 L2.91 25.59 L0 25.59 L0 24 L2.91 24 L4.5 24 L7.41 24 L7.41 25.59 Z" class="st3"/>
+			</g>
+		</g>
+	</g>
+</svg>

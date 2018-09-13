@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Создано Microsoft Visio, экспорт SVG Снять все выделения.svg Страница-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="0.346741in" height="0.339647in"
+		viewBox="0 0 24.9654 24.4546" xml:space="preserve" color-interpolation-filters="sRGB" class="st3">
+	<v:documentProperties v:langID="1049" v:metric="true" v:viewMarkup="false"/>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#000000;stroke:none;stroke-linecap:butt;stroke-width:0.75}
+		.st2 {fill:none;stroke:#000000;stroke-linecap:butt;stroke-width:1}
+		.st3 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>Страница-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="9"
+				v:shadowOffsetY="-9"/>
+		<g id="group1175-1" transform="translate(1,-0.862717)" v:mID="1175" v:groupContext="group">
+			<title>Лист.1175</title>
+			<g id="shape1176-2" v:mID="1176" v:groupContext="shape" transform="translate(7.4148,-19.8165)">
+				<title>Лист.1176</title>
+				<rect x="0" y="22.2149" width="15.8006" height="2.23967" class="st1"/>
+			</g>
+			<g id="shape1177-4" v:mID="1177" v:groupContext="shape" transform="translate(7.4148,-11.4286)">
+				<title>Лист.1177</title>
+				<rect x="0" y="22.2149" width="15.8006" height="2.23967" class="st1"/>
+			</g>
+			<g id="shape1178-6" v:mID="1178" v:groupContext="shape" transform="translate(7.4148,-3.04062)">
+				<title>Лист.1178</title>
+				<rect x="0" y="22.2149" width="15.8006" height="2.23967" class="st1"/>
+			</g>
+			<g id="shape1179-8" v:mID="1179" v:groupContext="shape" transform="translate(7.4148,-8.52819)">
+				<title>Лист.1179</title>
+				<rect x="0" y="22.2149" width="6.99824" height="2.23967" class="st1"/>
+			</g>
+			<g id="shape1180-10" v:mID="1180" v:groupContext="shape" transform="translate(7.4148,-17.0564)">
+				<title>Лист.1180</title>
+				<rect x="0" y="22.2149" width="6.99824" height="2.23967" class="st1"/>
+			</g>
+			<g id="shape1181-12" v:mID="1181" v:groupContext="shape" transform="translate(7.4148,-2.34479E-13)">
+				<title>Лист.1181</title>
+				<rect x="0" y="22.2149" width="6.99824" height="2.23967" class="st1"/>
+			</g>
+			<g id="shape1182-14" v:mID="1182" v:groupContext="shape" transform="translate(-1.7486E-14,-16.9132)">
+				<title>Лист.1182</title>
+				<rect x="0" y="18.7759" width="5.31377" height="5.67867" class="st2"/>
+			</g>
+			<g id="shape1183-16" v:mID="1183" v:groupContext="shape" transform="translate(-1.7486E-14,-8.52523)">
+				<title>Лист.1183</title>
+				<rect x="0" y="18.7759" width="5.31377" height="5.67867" class="st2"/>
+			</g>
+			<g id="shape1184-18" v:mID="1184" v:groupContext="shape" transform="translate(-1.7486E-14,-0.137283)">
+				<title>Лист.1184</title>
+				<rect x="0" y="18.7759" width="5.31377" height="5.67867" class="st2"/>
+			</g>
+		</g>
+	</g>
+</svg>

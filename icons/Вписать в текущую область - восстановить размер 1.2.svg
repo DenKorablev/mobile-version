@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Создано Microsoft Visio, экспорт SVG Вписать в текущую область - восстановить размер 1.2.svg Страница-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="0.352007in" height="0.355475in"
+		viewBox="0 0 25.3445 25.5942" xml:space="preserve" color-interpolation-filters="sRGB" class="st4">
+	<v:documentProperties v:langID="1049" v:metric="true" v:viewMarkup="false"/>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#24c4ff;stroke:none;stroke-linecap:butt;stroke-width:0.612}
+		.st2 {fill:none;stroke:#24c4ff;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st3 {stroke:#24c4ff;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.25}
+		.st4 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>Страница-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="9"
+				v:shadowOffsetY="-9"/>
+		<g id="shape497-1" v:mID="497" v:groupContext="shape" transform="translate(21.3644,28.6636) rotate(180)">
+			<title>Лист.497</title>
+			<path d="M10.46 16.08 L9.55 15.18 L1.29 23.44 L1.29 18.53 L0 18.53 L0 25.59 L7.1 25.59 L7.1 24.31 L2.23 24.31 L10.46
+						 16.08 Z" class="st1"/>
+		</g>
+		<g id="shape498-3" v:mID="498" v:groupContext="shape" transform="translate(0.625,-0.625)">
+			<title>Лист.498</title>
+			<rect x="0" y="18.7754" width="6.81882" height="6.81882" class="st2"/>
+		</g>
+		<g id="shape499-5" v:mID="499" v:groupContext="shape" transform="translate(0.625,-0.625)">
+			<title>Лист.499</title>
+			<path d="M0 12.99 L0 1.25 L24.09 1.25 L24.09 25.56 L11.4 25.59" class="st3"/>
+		</g>
+	</g>
+</svg>

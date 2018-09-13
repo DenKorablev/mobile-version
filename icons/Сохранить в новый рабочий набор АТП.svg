@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Создано Microsoft Visio, экспорт SVG Сохранить в новый рабочий набор АТП.svg Страница-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="0.367185in" height="0.314676in"
+		viewBox="0 0 26.4373 22.6566" xml:space="preserve" color-interpolation-filters="sRGB" class="st4">
+	<v:documentProperties v:langID="1049" v:metric="true" v:viewMarkup="false"/>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#000000;stroke:none;stroke-linecap:butt;stroke-width:0.75}
+		.st2 {fill:#ffffff;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
+		.st3 {fill:#000000;stroke:none;stroke-linecap:butt;stroke-width:1}
+		.st4 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>Страница-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="9"
+				v:shadowOffsetY="-9"/>
+		<g id="group1692-1" transform="translate(0.75,-0.5)" v:mID="1692" v:groupContext="group">
+			<title>Лист.1692</title>
+			<g id="shape1693-2" v:mID="1693" v:groupContext="shape" transform="translate(-2.45803E-13,-1.09115)">
+				<title>Сохранить.4198</title>
+				<v:userDefs>
+					<v:ud v:nameU="msvShapeCategories" v:prompt="" v:val="VT4(Icon)"/>
+					<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<path d="M15.78 2.34 L0 2.34 L0 22.66 L20.32 22.66 L20.32 6.88 L15.78 2.34 ZM5.8 3.79 L10.16 3.79 L10.16 8.87 L13.06
+							 8.87 L13.06 3.79 L14.51 3.79 L14.51 10.32 L5.8 10.32 L5.8 3.79 ZM15.96 21.21 L4.35 21.21 L4.35 13.95
+							 L15.96 13.95 L15.96 21.21 ZM18.86 21.21 L16.69 21.21 L16.69 13.22 L3.63 13.22 L3.63 21.21 L1.45 21.21
+							 L1.45 3.79 L5.08 3.79 L5.08 11.05 L15.24 11.05 L15.24 3.79 L18.86 7.42 L18.86 21.21 Z" class="st1"/>
+			</g>
+			<g id="group1694-4" transform="translate(10.2497,-1.06581E-13)" v:mID="1694" v:groupContext="group">
+				<title>Лист.1694</title>
+				<g id="group1695-5" v:mID="1695" v:groupContext="group">
+					<title>Лист.1695</title>
+					<g id="shape1696-6" v:mID="1696" v:groupContext="shape">
+						<title>Лист.1696</title>
+						<ellipse cx="6.84797" cy="15.8087" rx="6.84797" ry="6.84797" class="st2"/>
+					</g>
+				</g>
+				<g id="shape1697-8" v:mID="1697" v:groupContext="shape" transform="translate(2.25832,-2.25832)">
+					<title>Добавить.10536</title>
+					<v:userDefs>
+						<v:ud v:nameU="msvShapeCategories" v:prompt="" v:val="VT4(Icon)"/>
+						<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+					</v:userDefs>
+					<path d="M9.18 19.05 L5.57 19.05 L5.57 22.66 L3.61 22.66 L3.61 19.05 L0 19.05 L0 17.08 L3.61 17.08 L3.61 13.48
+								 L5.57 13.48 L5.57 17.08 L9.18 17.08 L9.18 19.05 Z" class="st3"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Создано Microsoft Visio, экспорт SVG Индикатор наличия ошибок.svg Страница-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="0.344602in" height="0.34376in"
+		viewBox="0 0 24.8113 24.7507" xml:space="preserve" color-interpolation-filters="sRGB" class="st3">
+	<v:documentProperties v:langID="1049" v:metric="true" v:viewMarkup="false"/>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#000000;stroke:#000000;stroke-linecap:butt;stroke-width:0.5}
+		.st2 {fill:#ff0000;stroke:#ff0000;stroke-linecap:butt;stroke-width:0.5}
+		.st3 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>Страница-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="9"
+				v:shadowOffsetY="-9"/>
+		<g id="group2073-1" transform="translate(0.463919,-0.459961)" v:mID="2073" v:groupContext="group">
+			<title>Лист.2073</title>
+			<g id="shape2067-2" v:mID="2067" v:groupContext="shape" transform="translate(0,25.6812) scale(1,-1)">
+				<title>Лист.2067</title>
+				<path d="M10.83 24.69 C6.68 24.29 3.06 21.8 1.25 18.11 C0.68 16.96 0.35 15.92 0.14 14.64 C0 13.73 0 12.01 0.14 11.1
+							 C0.35 9.81 0.68 8.78 1.25 7.63 C1.86 6.38 2.5 5.49 3.52 4.46 C4.55 3.44 5.44 2.8 6.7 2.18 C7.85 1.62
+							 8.88 1.29 10.16 1.08 C10.93 0.96 12.71 0.93 13.4 1.03 C15.66 1.36 17.53 2.15 19.29 3.5 C19.8 3.89 20.91
+							 5 21.3 5.51 C23.06 7.79 23.95 10.51 23.84 13.29 C23.8 14.21 23.7 14.9 23.48 15.78 C23.25 16.68 23.05
+							 17.24 22.62 18.11 C22.05 19.28 21.32 20.29 20.38 21.23 C18.54 23.08 16.27 24.21 13.61 24.62 C13.03 24.71
+							 11.44 24.75 10.83 24.69 ZM13.51 23.23 C17.73 22.58 21.16 19.46 22.14 15.38 C22.37 14.45 22.43 13.94
+							 22.43 12.89 C22.43 11.16 22.13 9.81 21.41 8.33 C20.37 6.16 18.74 4.52 16.58 3.44 C12.65 1.49 7.9 2.21
+							 4.7 5.24 C2.36 7.45 1.15 10.68 1.46 13.87 C1.69 16.24 2.76 18.53 4.42 20.21 C6.16 21.96 8.43 23.04 10.89
+							 23.3 C11.46 23.35 12.93 23.32 13.51 23.23 Z" class="st1"/>
+			</g>
+			<g id="group2070-4" transform="translate(5.55895,-5.49626)" v:mID="2070" v:groupContext="group">
+				<title>Лист.2070</title>
+				<g id="shape2071-5" v:mID="2071" v:groupContext="shape">
+					<title>Лист.2071</title>
+					<path d="M7.39 18.34 L12.65 13.08 C12.83 12.9 12.83 12.61 12.65 12.43 L12.32 12.1 C12.14 11.92 11.85 11.92 11.67
+								 12.1 L6.41 17.36 L1.16 12.11 C0.98 11.93 0.69 11.93 0.51 12.11 L0.18 12.43 C0 12.61 0 12.9 0.18
+								 13.08 L5.44 18.34 L0.18 23.59 C0 23.77 0 24.06 0.18 24.24 L0.51 24.57 C0.69 24.75 0.98 24.75 1.16
+								 24.57 L6.41 19.31 L11.67 24.57 C11.85 24.75 12.14 24.75 12.32 24.57 L12.65 24.24 C12.83 24.06 12.83
+								 23.77 12.65 23.59 L7.39 18.34 Z" class="st2"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

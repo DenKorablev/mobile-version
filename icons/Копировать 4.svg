@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Создано Microsoft Visio, экспорт SVG Копировать 4.svg Страница-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="0.264255in" height="0.380448in"
+		viewBox="0 0 19.0264 27.3922" xml:space="preserve" color-interpolation-filters="sRGB" class="st3">
+	<v:documentProperties v:langID="1049" v:metric="true" v:viewMarkup="false"/>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#ffffff;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st2 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st3 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>Страница-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="9"
+				v:shadowOffsetY="-9"/>
+		<g id="group1923-1" transform="translate(0.375,-0.375)" v:mID="1923" v:groupContext="group">
+			<title>Лист.1923</title>
+			<g id="group1924-2" transform="translate(0,-6.39294)" v:mID="1924" v:groupContext="group">
+				<title>Лист.1924</title>
+				<g id="shape1925-3" v:mID="1925" v:groupContext="shape">
+					<title>Лист.1925</title>
+					<path d="M0 27.39 L15.19 27.39 L15.19 7.14 L5.06 7.14 L0 12.21 L0 27.39 Z" class="st1"/>
+				</g>
+				<g id="shape1926-5" v:mID="1926" v:groupContext="shape" transform="translate(1.31395E-13,-15.187)">
+					<title>Лист.1926</title>
+					<path d="M0 27.39 L4.94 27.39 L5.06 22.33" class="st2"/>
+				</g>
+			</g>
+			<g id="group1927-8" transform="translate(3.0894,6.39488E-14)" v:mID="1927" v:groupContext="group">
+				<title>Лист.1927</title>
+				<g id="shape1928-9" v:mID="1928" v:groupContext="shape">
+					<title>Лист.1928</title>
+					<path d="M0 27.39 L15.19 27.39 L15.19 7.14 L5.06 7.14 L0 12.21 L0 27.39 Z" class="st1"/>
+				</g>
+				<g id="shape1929-11" v:mID="1929" v:groupContext="shape" transform="translate(1.31395E-13,-15.187)">
+					<title>Лист.1929</title>
+					<path d="M0 27.39 L4.94 27.39 L5.06 22.33" class="st2"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

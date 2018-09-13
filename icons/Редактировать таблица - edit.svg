@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Создано Microsoft Visio, экспорт SVG Редактировать таблица - edit.svg 28752f71e99627b872fe09f4f505e8e -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="8.5in" height="11in" viewBox="0 0 612 792"
+		xml:space="preserve" color-interpolation-filters="sRGB" class="st2">
+	<v:documentProperties v:langID="1049" v:viewMarkup="false"/>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#000000;stroke:none;stroke-linecap:butt;stroke-width:0.612}
+		.st2 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>28752f71e99627b872fe09f4f505e8e</title>
+		<v:pageProperties v:drawingScale="1" v:pageScale="1" v:drawingUnits="19" v:shadowOffsetX="9" v:shadowOffsetY="-9"/>
+		<g id="shape1-1" v:mID="1" v:groupContext="shape" transform="translate(6.12,-141.714)">
+			<title>Лист.1</title>
+			<path d="M599.76 755.65 C599.76 755.65 599.39 792 562.24 792 C505.76 792 92.72 792 37.45 792 C0.37 792 0 755.65 0 755.65
+						 L0 319.78 C0 283.12 37.45 283.43 37.45 283.43 L299.82 283.43 L281.09 301.6 L37.45 301.6 C37.45 301.6 18.73
+						 301.42 18.73 319.78 C18.73 346.65 18.73 755.65 18.73 755.65 C18.73 755.65 18.85 773.82 37.45 773.82 C66.03
+						 773.82 531.89 773.82 562.24 773.82 C580.3 773.82 580.97 755.65 580.97 755.65 L580.97 628.53 L599.7 610.36
+						 L599.7 338.88 L599.76 755.65 ZM281.15 664.83 L187.46 683 L206.18 592.18 C206.18 592.18 362.61 440.65 449.82
+						 356.07 L468.55 337.9 C488.5 318.56 502.45 305.03 506.06 301.54 C524.24 283.98 543.52 301.54 543.52 301.54
+						 L581.03 337.9 C581.03 337.9 599.76 356.07 581.03 374.19 C562.31 392.43 281.15 664.83 281.15 664.83 ZM206.18
+						 664.83 L281.15 646.65 L224.91 592.18 L206.18 664.83 ZM243.64 592.18 L281.15 628.53 L506.06 410.6 L468.55
+						 374.25 L243.64 592.18 ZM524.79 319.78 L487.27 356.13 L524.79 392.43 L562.31 356.07 L524.79 319.78 Z"
+					class="st1"/>
+		</g>
+	</g>
+</svg>

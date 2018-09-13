@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Создано Microsoft Visio, экспорт SVG Filter.svg Страница-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="0.351789in" height="0.35179in"
+		viewBox="0 0 25.3288 25.3288" xml:space="preserve" color-interpolation-filters="sRGB" class="st2">
+	<v:documentProperties v:langID="1049" v:metric="true" v:viewMarkup="false"/>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#000000;stroke:none;stroke-linecap:butt;stroke-width:1.19531}
+		.st2 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>Страница-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<g id="group393-1" transform="translate(0.474281,-0.616454)" v:mID="393" v:groupContext="group">
+			<title>Лист.393</title>
+			<g id="shape394-2" v:mID="394" v:groupContext="shape">
+				<title>Лист.394</title>
+				<path d="M21.51 1.81 L2.87 1.81 C0.96 1.81 0 4.13 1.35 5.48 L8.61 12.74 L8.61 20.45 C8.61 21.13 8.92 21.76 9.47 22.24
+							 L12.33 24.35 C13.73 25.33 15.77 24.42 15.77 22.63 L15.77 12.74 L23.03 5.48 C24.38 4.13 23.42 1.81 21.51
+							 1.81 ZM13.62 11.85 L13.62 22.6 L10.76 20.45 L10.76 11.85 L2.87 3.96 L21.51 3.96 L13.62 11.85 Z"
+						class="st1"/>
+			</g>
+		</g>
+	</g>
+</svg>

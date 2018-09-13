@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Создано Microsoft Visio, экспорт SVG Tag - тег - метка - бирка - ярлык - этикетка.svg Страница-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="0.335701in" height="0.335701in"
+		viewBox="0 0 24.1705 24.1705" xml:space="preserve" color-interpolation-filters="sRGB" class="st2">
+	<v:documentProperties v:langID="1049" v:metric="true" v:viewMarkup="false"/>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#000000;stroke:none;stroke-linecap:butt;stroke-width:1.19531}
+		.st2 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>Страница-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="9"
+				v:shadowOffsetY="-9"/>
+		<g id="shape828-1" v:mID="828" v:groupContext="shape" transform="translate(1.19531,-0.995939)">
+			<title>Лист.828</title>
+			<path d="M21.18 11.8 L12.17 2.79 A2.04186 2.04186 -180 0 0 10.72 2.19 L2.04 2.19 C0.91 2.19 0 3.11 0 4.23 L0 12.92 A2.04186
+						 2.04186 -180 0 0 0.6 14.36 L9.61 23.37 C10.41 24.17 11.7 24.17 12.5 23.37 L21.18 14.69 C21.98 13.89 21.98
+						 12.6 21.18 11.8 ZM20.22 13.73 L11.54 22.41 C11.27 22.68 10.84 22.68 10.57 22.41 L1.56 13.4 a0.676154 0.676154
+						 0 0 1 -0.199337 -0.481284 L1.36 4.23 C1.36 3.86 1.67 3.55 2.04 3.55 L10.72 3.55 C10.91 3.55 11.08 3.62 11.21
+						 3.75 L20.22 12.77 C20.48 13.03 20.48 13.46 20.22 13.73 ZM6.13 7.47 C6.59 7.47 6.98 7.85 6.98 8.32 C6.98
+						 8.79 6.59 9.17 6.13 9.17 C5.66 9.17 5.27 8.79 5.27 8.32 C5.27 7.85 5.66 7.47 6.13 7.47 ZM6.13 6.27 C5 6.27
+						 4.08 7.19 4.08 8.32 C4.08 9.44 5 10.36 6.13 10.36 C7.25 10.36 8.17 9.44 8.17 8.32 C8.17 7.19 7.25 6.27 6.13
+						 6.27 Z" class="st1"/>
+		</g>
+	</g>
+</svg>

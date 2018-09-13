@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Создано Microsoft Visio, экспорт SVG Назад (сдвиг назад).svg Страница-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="0.353412in" height="0.320896in"
+		viewBox="0 0 25.4457 23.1045" xml:space="preserve" color-interpolation-filters="sRGB" class="st3">
+	<v:documentProperties v:langID="1049" v:metric="true" v:viewMarkup="false"/>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#000000;stroke:none;stroke-linecap:butt;stroke-width:0.75}
+		.st2 {fill:#000000;stroke:none;stroke-width:0.75}
+		.st3 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>Страница-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="9"
+				v:shadowOffsetY="-9"/>
+		<g id="group275-1" transform="translate(0.75,-0.75)" v:mID="275" v:groupContext="group">
+			<title>Лист.275</title>
+			<g id="shape276-2" v:mID="276" v:groupContext="shape" transform="translate(11.9728,24.6045) rotate(180)">
+				<title>Воспроизвести</title>
+				<v:userDefs>
+					<v:ud v:nameU="msvShapeCategories" v:prompt="" v:val="VT4(Icon)"/>
+					<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<path d="M1 1.5 L0 1.5 L0 23.1 L1 23.1 L11.97 12.3 L1 1.5 Z" class="st1"/>
+			</g>
+			<g id="shape277-4" v:mID="277" v:groupContext="shape" transform="translate(11.9728,-7.36088)">
+				<title>Лист.277</title>
+				<rect x="0" y="16.2218" width="11.9728" height="6.88277" class="st2"/>
+			</g>
+		</g>
+	</g>
+</svg>

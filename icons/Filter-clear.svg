@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Создано Microsoft Visio, экспорт SVG Filter-clear.svg Страница-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="0.366654in" height="0.364712in"
+		viewBox="0 0 26.3991 26.2593" xml:space="preserve" color-interpolation-filters="sRGB" class="st3">
+	<v:documentProperties v:langID="1049" v:metric="true" v:viewMarkup="false"/>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#000000;stroke:none;stroke-linecap:butt;stroke-width:1.19531}
+		.st2 {fill:#000000;stroke:none;stroke-linecap:butt;stroke-width:1.54688}
+		.st3 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>Страница-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<g id="group525-1" transform="translate(0.474281,-1.54688)" v:mID="525" v:groupContext="group">
+			<title>Лист.525</title>
+			<g id="group526-2" v:mID="526" v:groupContext="group">
+				<title>Лист.526</title>
+				<g id="shape527-3" v:mID="527" v:groupContext="shape">
+					<title>Лист.527</title>
+					<path d="M21.51 2.74 L2.87 2.74 C0.96 2.74 0 5.06 1.35 6.41 L8.61 13.67 L8.61 21.38 C8.61 22.06 8.92 22.69 9.47
+								 23.17 L12.33 25.28 C13.73 26.26 15.77 25.35 15.77 23.56 L15.77 13.67 L23.03 6.41 C24.38 5.06 23.42
+								 2.74 21.51 2.74 ZM13.62 12.78 L13.62 23.53 L10.76 21.38 L10.76 12.78 L2.87 4.89 L21.51 4.89 L13.62
+								 12.78 Z" class="st1"/>
+				</g>
+			</g>
+			<g id="group528-5" transform="translate(16.7647,0)" v:mID="528" v:groupContext="group">
+				<title>Лист.528</title>
+				<g id="shape529-6" v:mID="529" v:groupContext="shape">
+					<title>Лист.529</title>
+					<path d="M7.47 25.4 L6.76 26.11 C6.56 26.31 6.24 26.31 6.05 26.11 L3.81 23.87 L1.57 26.11 C1.37 26.3 1.05 26.3
+								 0.86 26.11 L0.15 25.4 C-0.05 25.2 -0.05 24.89 0.15 24.69 L2.39 22.45 L0.15 20.21 C-0.05 20.01 -0.05
+								 19.69 0.15 19.5 L0.86 18.79 C1.05 18.59 1.37 18.59 1.57 18.79 L3.81 21.03 L6.05 18.79 C6.24 18.6
+								 6.56 18.6 6.76 18.79 L7.47 19.5 C7.66 19.7 7.66 20.02 7.47 20.21 L5.22 22.45 L7.46 24.69 C7.66 24.89
+								 7.66 25.21 7.47 25.4 Z" class="st2"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

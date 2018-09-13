@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Создано Microsoft Visio, экспорт SVG Calculate.svg Страница-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="1.23876in" height="1.53401in"
+		viewBox="0 0 89.191 110.449" xml:space="preserve" color-interpolation-filters="sRGB" class="st3">
+	<v:documentProperties v:langID="1049" v:metric="true" v:viewMarkup="false"/>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#000000;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st2 {fill:#ffffff;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st3 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>Страница-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<g id="shape584-1" v:mID="584" v:groupContext="shape" transform="translate(0.375,-0.375)">
+			<title>Лист.584</title>
+			<rect x="0" y="0.749998" width="88.4409" height="109.699" rx="11.3386" ry="11.3386" class="st1"/>
+		</g>
+		<g id="shape585-3" v:mID="585" v:groupContext="shape" transform="translate(15.3092,-74.0769)">
+			<title>Лист.585</title>
+			<rect x="0" y="89.192" width="58.5726" height="21.2569" rx="5.66929" ry="5.66929" class="st2"/>
+		</g>
+		<g id="shape586-5" v:mID="586" v:groupContext="shape" transform="translate(15.3092,-55.021)">
+			<title>Лист.586</title>
+			<rect x="0" y="97.7933" width="12.2187" height="12.6555" rx="6.10933" ry="6.10933" class="st2"/>
+		</g>
+		<g id="shape587-7" v:mID="587" v:groupContext="shape" transform="translate(38.4861,-55.021)">
+			<title>Лист.587</title>
+			<rect x="0" y="97.7933" width="12.2187" height="12.6555" rx="6.10933" ry="6.10933" class="st2"/>
+		</g>
+		<g id="shape588-9" v:mID="588" v:groupContext="shape" transform="translate(61.6631,-55.021)">
+			<title>Лист.588</title>
+			<rect x="0" y="97.7933" width="12.2187" height="12.6555" rx="6.10933" ry="6.10933" class="st2"/>
+		</g>
+		<g id="shape589-11" v:mID="589" v:groupContext="shape" transform="translate(15.3092,-35.2044)">
+			<title>Лист.589</title>
+			<rect x="0" y="97.7933" width="12.2187" height="12.6555" rx="6.10933" ry="6.10933" class="st2"/>
+		</g>
+		<g id="shape590-13" v:mID="590" v:groupContext="shape" transform="translate(38.4861,-35.2044)">
+			<title>Лист.590</title>
+			<rect x="0" y="97.7933" width="12.2187" height="12.6555" rx="6.10933" ry="6.10933" class="st2"/>
+		</g>
+		<g id="shape591-15" v:mID="591" v:groupContext="shape" transform="translate(61.6631,-35.2044)">
+			<title>Лист.591</title>
+			<rect x="0" y="97.7933" width="12.2187" height="12.6555" rx="6.10933" ry="6.10933" class="st2"/>
+		</g>
+		<g id="shape592-17" v:mID="592" v:groupContext="shape" transform="translate(15.3092,-14.3792)">
+			<title>Лист.592</title>
+			<rect x="0" y="97.7933" width="12.2187" height="12.6555" rx="6.10933" ry="6.10933" class="st2"/>
+		</g>
+		<g id="shape593-19" v:mID="593" v:groupContext="shape" transform="translate(38.4861,-14.3792)">
+			<title>Лист.593</title>
+			<rect x="0" y="97.7933" width="12.2187" height="12.6555" rx="6.10933" ry="6.10933" class="st2"/>
+		</g>
+		<g id="shape594-21" v:mID="594" v:groupContext="shape" transform="translate(61.6631,-14.3792)">
+			<title>Лист.594</title>
+			<rect x="0" y="97.7933" width="12.2187" height="12.6555" rx="6.10933" ry="6.10933" class="st2"/>
+		</g>
+	</g>
+</svg>

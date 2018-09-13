@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Создано Microsoft Visio, экспорт SVG Вывести данные в таблицу.svg Страница-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="0.351933in" height="0.300827in"
+		viewBox="0 0 25.3392 21.6595" xml:space="preserve" color-interpolation-filters="sRGB" class="st7">
+	<v:documentProperties v:langID="1049" v:metric="true" v:viewMarkup="false"/>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#8cc63e;stroke:#8cc63e;stroke-width:2.25}
+		.st2 {stroke:#f2f2f2;stroke-width:0.5}
+		.st3 {fill:#ffffff;stroke:#ffffff;stroke-width:0.5}
+		.st4 {fill:#000000;stroke:#ffffff;stroke-width:0.5}
+		.st5 {fill:none;stroke:none;stroke-width:0.5}
+		.st6 {fill:#000000;font-family:Segoe UI;font-size:0.250008em}
+		.st7 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>Страница-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="9"
+				v:shadowOffsetY="-9"/>
+		<g id="group1684-1" transform="translate(1.26238,-1.37662)" v:mID="1684" v:groupContext="group">
+			<title>Лист.1684</title>
+			<g id="shape1671-2" v:mID="1671" v:groupContext="shape" transform="translate(0.987618,-0.873384)">
+				<title>Лист.1671</title>
+				<rect x="0" y="4.5" width="20.8392" height="17.1595" class="st1"/>
+			</g>
+			<g id="group1672-4" transform="translate(1.06204,-4.8395)" v:mID="1672" v:groupContext="group">
+				<title>Лист.1672</title>
+				<g id="shape1673-5" v:mID="1673" v:groupContext="shape" transform="translate(20.6903,38.7054) rotate(180)">
+					<title>Лист.1673</title>
+					<path d="M0 21.66 L20.69 21.66" class="st2"/>
+				</g>
+				<g id="shape1674-8" v:mID="1674" v:groupContext="shape" transform="translate(20.6903,43.3191) rotate(180)">
+					<title>Лист.1674</title>
+					<path d="M0 21.66 L20.69 21.66" class="st2"/>
+				</g>
+			</g>
+			<g id="group1675-11" transform="translate(4.63447,-0.873384)" v:mID="1675" v:groupContext="group">
+				<title>Лист.1675</title>
+				<g id="shape1676-12" v:mID="1676" v:groupContext="shape" transform="translate(21.6595,4.5) rotate(90)">
+					<title>Лист.1676</title>
+					<path d="M0 21.66 L17.16 21.66" class="st2"/>
+				</g>
+				<g id="shape1677-15" v:mID="1677" v:groupContext="shape" transform="translate(28.4323,4.5) rotate(90)">
+					<title>Лист.1677</title>
+					<path d="M0 21.66 L17.16 21.66" class="st2"/>
+				</g>
+				<g id="shape1678-18" v:mID="1678" v:groupContext="shape" transform="translate(35.205,4.5) rotate(90)">
+					<title>Лист.1678</title>
+					<path d="M0 21.66 L17.16 21.66" class="st2"/>
+				</g>
+			</g>
+			<g id="shape1679-21" v:mID="1679" v:groupContext="shape" transform="translate(0.987618,-12.7601)">
+				<title>Лист.1679</title>
+				<rect x="0" y="16.3867" width="20.8392" height="5.2728" class="st3"/>
+			</g>
+			<g id="shape1682-23" v:mID="1682" v:groupContext="shape">
+				<title>Лист.1682</title>
+				<path d="M11.74 12.09 L11.47 12.35 C11.3 12.53 11.3 12.82 11.47 12.99 L14.64 16.14 L0.45 16.14 C0.2 16.14 0 16.34
+							 0 16.6 L0 16.97 C0 17.22 0.2 17.43 0.45 17.43 L14.64 17.43 L11.47 20.58 C11.3 20.75 11.3 21.04 11.47
+							 21.22 L11.74 21.48 C11.92 21.66 12.2 21.66 12.38 21.48 L16.78 17.1 C16.95 16.93 16.95 16.64 16.78 16.46
+							 L12.38 12.09 C12.2 11.91 11.92 11.91 11.74 12.09 Z" class="st4"/>
+			</g>
+			<g id="shape1683-25" v:mID="1683" v:groupContext="shape" transform="translate(0.493808,-12.7601)">
+				<title>Лист.1683</title>
+				<desc>ТАБЛИЦА</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="10.9134" cy="19.0231" width="21.83" height="5.2728"/>
+				<rect x="0" y="16.3867" width="21.8268" height="5.2728" class="st5"/>
+				<text x="4.09" y="19.92" class="st6" v:langID="1049"><v:paragraph v:horizAlign="1"/><v:tabList/>ТАБЛИЦА</text>			</g>
+		</g>
+	</g>
+</svg>

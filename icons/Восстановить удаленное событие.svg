@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Создано Microsoft Visio, экспорт SVG Восстановить удаленное событие.svg Страница-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="0.483249in" height="0.483249in"
+		viewBox="0 0 34.7939 34.7939" xml:space="preserve" color-interpolation-filters="sRGB" class="st3">
+	<v:documentProperties v:langID="1049" v:metric="true" v:viewMarkup="false"/>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#000000;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st2 {fill:#ffffff;stroke:none;stroke-width:0.75}
+		.st3 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>Страница-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="9"
+				v:shadowOffsetY="-9"/>
+		<g id="group1521-1" transform="translate(0.375,-0.375)" v:mID="1521" v:groupContext="group">
+			<title>Лист.1521</title>
+			<g id="shape1518-2" v:mID="1518" v:groupContext="shape">
+				<title>Лист.1518</title>
+				<path d="M0 17.64 L4.3 17.64 L4.3 30.55 L17.02 30.55 L17.02 34.79 L3.91 34.79 A4.79497 4.79497 0 0 1 -0 30.94 L0
+							 17.64 Z" class="st1"/>
+			</g>
+			<g id="shape1519-4" v:mID="1519" v:groupContext="shape" transform="translate(8.48917,-8.54363)">
+				<title>Лист.1519</title>
+				<path d="M0 30.88 A4.25937 4.25937 -180 0 0 3.83 34.79 L21.63 34.79 A4.27377 4.27377 -180 0 0 25.55 30.88 L25.55
+							 13.28 A4.38703 4.38703 -180 0 0 21.63 9.29 L3.83 9.29 A4.42961 4.42961 -180 0 0 0 13.28 L0 30.88 Z"
+						class="st1"/>
+			</g>
+			<g id="shape1520-6" v:mID="1520" v:groupContext="shape" transform="translate(12.8078,-12.837)">
+				<title>Лист.1520</title>
+				<rect x="0" y="17.8803" width="16.9175" height="16.9136" class="st2"/>
+			</g>
+		</g>
+	</g>
+</svg>

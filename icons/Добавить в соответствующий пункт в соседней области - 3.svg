@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Создано Microsoft Visio, экспорт SVG Добавить в соответствующий пункт в соседней области - 3.svg Страница-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="0.499828in" height="0.327025in"
+		viewBox="0 0 35.9876 23.5458" xml:space="preserve" color-interpolation-filters="sRGB" class="st8">
+	<v:documentProperties v:langID="1049" v:metric="true" v:viewMarkup="false"/>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#ffffff;stroke:#24c2ff;stroke-width:1.5}
+		.st2 {fill:#00b050;stroke:#24c2ff;stroke-width:1.5}
+		.st3 {fill:#24c2ff;stroke:none;stroke-width:0.75}
+		.st4 {fill:#ffffff;stroke:none;stroke-width:0.75}
+		.st5 {marker-end:url(#mrkr2-19);stroke:#24c2ff;stroke-width:1.5}
+		.st6 {fill:#24c2ff;fill-opacity:1;stroke:#24c2ff;stroke-opacity:1;stroke-width:0.37313432835821}
+		.st7 {fill:#24c2ff;stroke:none;stroke-linecap:butt;stroke-width:0.75}
+		.st8 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Markers">
+		<g id="lend2">
+			<path d="M 1 1 L 0 0 L 1 -1 L 1 1 " style="stroke:none"/>
+		</g>
+		<marker id="mrkr2-19" class="st6" v:arrowType="2" v:arrowSize="2" v:setback="2.68" refX="-2.68" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend2" transform="scale(-2.68,-2.68) "/>
+		</marker>
+	</defs>
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>Страница-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="9"
+				v:shadowOffsetY="-9"/>
+		<g id="group1213-1" transform="translate(1.5,-1.5)" v:mID="1213" v:groupContext="group">
+			<title>Лист.1213</title>
+			<g id="shape1214-2" v:mID="1214" v:groupContext="shape" transform="translate(-1.1291E-13,-14.0934)">
+				<title>Лист.1214</title>
+				<rect x="0" y="17.0934" width="6.70011" height="6.4524" class="st1"/>
+			</g>
+			<g id="shape1215-4" v:mID="1215" v:groupContext="shape" transform="translate(-1.1291E-13,-7.0467)">
+				<title>Лист.1215</title>
+				<rect x="0" y="17.0934" width="6.70011" height="6.4524" class="st1"/>
+			</g>
+			<g id="shape1216-6" v:mID="1216" v:groupContext="shape">
+				<title>Лист.1216</title>
+				<rect x="0" y="17.0934" width="6.70011" height="6.4524" class="st2"/>
+			</g>
+			<g id="shape1217-8" v:mID="1217" v:groupContext="shape" transform="translate(1.92968,-15.9547)">
+				<title>Лист.1217</title>
+				<rect x="0" y="20.8657" width="2.68011" height="2.68011" class="st3"/>
+			</g>
+			<g id="shape1218-10" v:mID="1218" v:groupContext="shape" transform="translate(2.01,-8.93285)">
+				<title>Лист.1218</title>
+				<rect x="0" y="20.8657" width="2.68011" height="2.68011" class="st3"/>
+			</g>
+			<g id="shape1219-12" v:mID="1219" v:groupContext="shape" transform="translate(2.01,-1.88615)">
+				<title>Лист.1219</title>
+				<rect x="0" y="20.8657" width="2.68011" height="2.68011" class="st4"/>
+			</g>
+			<g id="shape1220-14" v:mID="1220" v:groupContext="shape" transform="translate(9.11236,-10.2729)">
+				<title>Лист.1220</title>
+				<path d="M0 23.55 L4.07 23.55" class="st5"/>
+			</g>
+			<g id="shape1221-20" v:mID="1221" v:groupContext="shape" transform="translate(11.5368,-16.5976)">
+				<title>Лист.1221</title>
+				<rect x="0" y="19.5976" width="22.2009" height="3.94817" class="st7"/>
+			</g>
+			<g id="shape1222-22" v:mID="1222" v:groupContext="shape" transform="translate(18.0314,-8.29882)">
+				<title>Лист.1222</title>
+				<rect x="0" y="19.5976" width="15.7062" height="3.94817" class="st7"/>
+			</g>
+			<g id="shape1223-24" v:mID="1223" v:groupContext="shape" transform="translate(18.0314,9.23706E-14)">
+				<title>Лист.1223</title>
+				<rect x="0" y="19.5976" width="15.7062" height="3.94817" class="st7"/>
+			</g>
+		</g>
+	</g>
+</svg>

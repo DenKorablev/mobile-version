@@ -1,0 +1,12 @@
+.is-hidden {
+    display: none;
+}
+
+.is-visibly {
+    display: block;
+}
+
+.is-menu-active {
+    background: #00b050;
+    border: none;
+}

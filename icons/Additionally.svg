@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Создано Microsoft Visio, экспорт SVG Additionally.svg Страница-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="0.29259in" height="0.28525in"
+		viewBox="0 0 21.0664 20.538" xml:space="preserve" color-interpolation-filters="sRGB" class="st2">
+	<v:documentProperties v:langID="1049" v:metric="true" v:viewMarkup="false"/>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#000000;stroke:none;stroke-linecap:butt;stroke-width:0.612}
+		.st2 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>Страница-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="9"
+				v:shadowOffsetY="-9"/>
+		<g id="shape2098-1" v:mID="2098" v:groupContext="shape" transform="translate(0.612,-0.612)">
+			<title>Лист.2098</title>
+			<path d="M7.39 11.71 L1.71 11.71 C0.77 11.71 0 12.48 0 13.43 L0 18.83 C0 19.77 0.77 20.54 1.71 20.54 L7.39 20.54 C8.33
+						 20.54 9.1 19.77 9.1 18.83 L9.1 13.43 C9.1 12.48 8.33 11.71 7.39 11.71 ZM7.74 18.83 C7.74 19.02 7.58 19.18
+						 7.39 19.18 L1.71 19.18 C1.51 19.18 1.35 19.02 1.35 18.83 L1.35 13.43 C1.35 13.23 1.51 13.07 1.71 13.07 L7.39
+						 13.07 C7.58 13.07 7.74 13.23 7.74 13.43 L7.74 18.83 ZM7.39 1.27 L1.71 1.27 C0.77 1.27 0 2.04 0 2.98 L0 8.38
+						 C0 9.32 0.77 10.09 1.71 10.09 L7.39 10.09 C8.33 10.09 9.1 9.33 9.1 8.38 L9.1 2.98 C9.1 2.04 8.33 1.27 7.39
+						 1.27 ZM7.74 8.38 C7.74 8.58 7.58 8.74 7.39 8.74 L1.71 8.74 C1.51 8.74 1.35 8.58 1.35 8.38 L1.35 2.98 C1.35
+						 2.79 1.51 2.63 1.71 2.63 L7.39 2.63 C7.58 2.63 7.74 2.79 7.74 2.98 L7.74 8.38 ZM18.13 11.71 L12.46 11.71
+						 C11.51 11.71 10.74 12.48 10.74 13.43 L10.74 18.83 C10.74 19.77 11.51 20.54 12.46 20.54 L18.13 20.54 C19.07
+						 20.54 19.84 19.77 19.84 18.83 L19.84 13.43 C19.84 12.48 19.08 11.71 18.13 11.71 ZM18.49 18.83 C18.49 19.02
+						 18.33 19.18 18.13 19.18 L12.46 19.18 C12.26 19.18 12.1 19.02 12.1 18.83 L12.1 13.43 C12.1 13.23 12.26 13.07
+						 12.46 13.07 L18.13 13.07 C18.33 13.07 18.49 13.23 18.49 13.43 L18.49 18.83 ZM15.23 10.16 C17.69 10.16 19.69
+						 8.15 19.69 5.69 C19.69 3.23 17.69 1.22 15.23 1.22 C12.76 1.22 10.76 3.23 10.76 5.69 C10.76 8.15 12.76 10.16
+						 15.23 10.16 ZM15.23 2.58 C16.94 2.58 18.34 3.97 18.34 5.69 C18.34 7.41 16.94 8.8 15.23 8.8 C13.51 8.8 12.11
+						 7.41 12.11 5.69 C12.11 3.97 13.51 2.58 15.23 2.58 Z" class="st1"/>
+		</g>
+	</g>
+</svg>

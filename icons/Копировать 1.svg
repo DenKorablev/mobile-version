@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Создано Microsoft Visio, экспорт SVG Копировать 1.svg Страница-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="0.409471in" height="0.353412in"
+		viewBox="0 0 29.4819 25.4457" xml:space="preserve" color-interpolation-filters="sRGB" class="st2">
+	<v:documentProperties v:langID="1049" v:metric="true" v:viewMarkup="false"/>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#000000;stroke:none;stroke-linecap:butt;stroke-width:0.75}
+		.st2 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>Страница-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="9"
+				v:shadowOffsetY="-9"/>
+		<g id="group1919-1" transform="translate(1.53622,-0.75)" v:mID="1919" v:groupContext="group">
+			<v:userDefs>
+				<v:ud v:nameU="msvShapeCategories" v:prompt="" v:val="VT4(Icon)"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<title>Копировать.1919</title>
+			<g id="shape1920-2" v:mID="1920" v:groupContext="shape" transform="translate(-0.786216,0)">
+				<title>Лист.1920</title>
+				<path d="M3.44 13.47 L8.54 13.47 L8.54 12.67 L3.44 12.67 L3.44 13.47 ZM3.44 11.08 L8.54 11.08 L8.54 10.28 L3.44 10.28
+							 L3.44 11.08 ZM3.44 8.68 L11.1 8.68 L11.1 7.89 L3.44 7.89 L3.44 8.68 ZM3.44 6.29 L7.71 6.29 L7.71 5.49
+							 L3.44 5.49 L3.44 6.29 ZM12.81 21.45 L20.5 21.45 L20.5 20.66 L12.81 20.66 L12.81 21.45 ZM12.81 19.06
+							 L20.5 19.06 L20.5 18.26 L12.81 18.26 L12.81 19.06 ZM12.81 16.67 L20.5 16.67 L20.5 15.87 L12.81 15.87
+							 L12.81 16.67 ZM12.81 14.27 L17.09 14.27 L17.09 13.47 L12.81 13.47 L12.81 14.27 ZM8.54 15.87 L1.73 15.87
+							 L1.73 3.1 L9.42 3.1 L9.42 6.29 L12.84 6.29 L12.84 8.68 L14.55 8.68 L14.55 5.09 L10.7 1.5 L0 1.5 L0 17.46
+							 L8.54 17.46 L8.54 15.87 ZM10.28 3.1 L12.84 5.49 L10.28 5.49 L10.28 3.1 ZM20.1 9.48 L9.4 9.48 L9.4 25.45
+							 L23.95 25.45 L23.95 13.07 L20.1 9.48 ZM22.24 13.47 L19.67 13.47 L19.67 11.08 L22.24 13.47 ZM22.24 23.85
+							 L11.13 23.85 L11.13 11.08 L18.82 11.08 L18.82 14.27 L22.24 14.27 L22.24 23.85 Z" class="st1"/>
+			</g>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Создано Microsoft Visio, экспорт SVG Сменный Журнал - TL.svg Страница-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="0.284361in" height="0.285165in"
+		viewBox="0 0 20.474 20.5318" xml:space="preserve" color-interpolation-filters="sRGB" class="st2">
+	<v:documentProperties v:langID="1049" v:metric="true" v:viewMarkup="false"/>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#ffffff;stroke:none;stroke-linecap:butt;stroke-width:0.0612}
+		.st2 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>Страница-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="9"
+				v:shadowOffsetY="-9"/>
+		<g id="group3282-1" transform="translate(1.59872E-14,-0.0612)" v:mID="3282" v:groupContext="group">
+			<title>Лист.3282</title>
+			<g id="group3283-2" v:mID="3283" v:groupContext="group">
+				<title>Лист.3283</title>
+				<g id="shape3284-3" v:mID="3284" v:groupContext="shape" transform="translate(9.99201E-14,20.6542) scale(1,-1)">
+					<title>Лист.3284</title>
+					<path d="M2.85 20.34 C2.63 20.14 2.63 20.12 2.6 19.21 L2.57 18.27 L1.53 18.24 C0.67 18.22 0.46 18.19 0.33 18.07
+								 C0 17.78 0.04 16.98 0.39 16.79 C0.47 16.74 1 16.71 1.56 16.71 L2.58 16.71 L2.58 15.33 L2.58 13.95
+								 L1.55 13.95 C0.41 13.94 0.27 13.9 0.15 13.46 C0.04 13.1 0.13 12.75 0.37 12.57 C0.55 12.43 0.7 12.4
+								 1.58 12.4 L2.58 12.4 L2.58 11.02 L2.58 9.64 L1.58 9.64 C0.63 9.64 0.54 9.62 0.34 9.45 C0.15 9.29
+								 0.12 9.19 0.12 8.87 C0.12 8.54 0.15 8.45 0.34 8.28 C0.54 8.11 0.63 8.1 1.58 8.1 L2.58 8.1 L2.58
+								 6.76 L2.58 5.41 L1.55 5.41 C0.41 5.41 0.27 5.37 0.15 4.93 C0.04 4.57 0.13 4.22 0.37 4.03 C0.55 3.89
+								 0.7 3.87 1.58 3.87 L2.58 3.87 L2.58 2.98 C2.58 1.94 2.68 1.66 3.08 1.52 C3.26 1.46 4.48 1.43 6.81
+								 1.43 L10.28 1.43 L10.42 2.07 L10.56 2.69 L14.25 7.36 L17.94 12.04 L17.95 16.04 C17.95 18.23 17.92
+								 20.09 17.9 20.17 C17.75 20.53 17.82 20.53 10.23 20.53 L3.08 20.53 L2.85 20.34 ZM4.83 18.06 C5.39
+								 17.5 5.08 16.66 4.27 16.57 C3.92 16.53 3.87 16.55 3.6 16.82 C3.36 17.06 3.32 17.16 3.32 17.47 C3.32
+								 17.77 3.36 17.88 3.57 18.09 C3.77 18.3 3.89 18.34 4.19 18.34 C4.49 18.34 4.59 18.3 4.83 18.06 ZM4.58
+								 13.98 C5.22 13.68 5.27 12.71 4.68 12.43 C4.35 12.27 4.23 12.25 3.93 12.33 C3.54 12.44 3.32 12.75
+								 3.32 13.17 C3.32 13.57 3.49 13.84 3.84 14 C4.17 14.13 4.25 14.13 4.58 13.98 ZM4.62 9.68 C5.27 9.34
+								 5.25 8.38 4.57 8.06 C3.97 7.78 3.32 8.19 3.32 8.84 C3.32 9.25 3.42 9.45 3.75 9.64 C4.06 9.84 4.3
+								 9.84 4.62 9.68 ZM4.71 5.39 C5.18 5.07 5.23 4.43 4.82 4.02 C4.25 3.45 3.32 3.85 3.32 4.67 C3.32 5.41
+								 4.08 5.81 4.71 5.39 Z" class="st1"/>
+				</g>
+				<g id="shape3285-5" v:mID="3285" v:groupContext="shape" transform="translate(17.7104,28.7824) scale(1,-1)">
+					<title>Лист.3285</title>
+					<path d="M0.59 20.07 C0.37 19.81 0.15 19.54 0.1 19.47 C0 19.35 0.1 19.26 0.84 18.67 C1.3 18.31 1.7 18.01 1.72
+								 18.01 C1.74 18.01 1.95 18.26 2.18 18.55 C2.76 19.31 2.75 19.42 1.97 20.04 C1.62 20.32 1.28 20.53
+								 1.16 20.53 C1.04 20.53 0.85 20.39 0.59 20.07 Z" class="st1"/>
+				</g>
+				<g id="shape3286-7" v:mID="3286" v:groupContext="shape" transform="translate(17.296,30.2698) scale(1,-1)">
+					<title>Лист.3286</title>
+					<path d="M0.08 20.43 C0.03 20.37 0 20.29 0.02 20.24 C0.05 20.13 1.59 18.93 1.69 18.93 C1.76 18.93 1.87 19.11
+								 1.87 19.22 C1.87 19.24 0.66 20.21 0.32 20.45 C0.2 20.53 0.16 20.53 0.08 20.43 Z" class="st1"/>
+				</g>
+				<g id="shape3287-9" v:mID="3287" v:groupContext="shape" transform="translate(10.9726,30.8957) scale(1,-1)">
+					<title>Лист.3287</title>
+					<path d="M2.99 16.7 C1.33 14.6 0 12.84 0.04 12.81 C0.33 12.56 1.71 11.5 1.72 11.53 C1.74 11.53 3.1 13.28 4.77
+								 15.39 C6.44 17.51 7.79 19.26 7.77 19.26 C7.76 19.27 7.39 19.56 6.95 19.91 C6.51 20.25 6.12 20.53
+								 6.08 20.53 C6.04 20.53 4.65 18.81 2.99 16.7 Z" class="st1"/>
+				</g>
+				<g id="shape3288-11" v:mID="3288" v:groupContext="shape" transform="translate(13.3052,33.8298) scale(1,-1)">
+					<title>Лист.3288</title>
+					<path d="M2.32 17.65 C1.07 16.06 0.03 14.72 0.02 14.68 C0 14.63 0.76 14.61 2.11 14.62 L4.23 14.65 L4.44 14.85
+								 L4.64 15.06 L4.62 17.8 L4.6 20.53 L2.32 17.65 Z" class="st1"/>
+				</g>
+				<g id="shape3289-13" v:mID="3289" v:groupContext="shape" transform="translate(10.5905,38.9422) scale(1,-1)">
+					<title>Лист.3289</title>
+					<path d="M0.13 20.13 C0.01 19.55 0 19.55 0.44 19.22 L0.84 18.91 L1.29 19.12 C1.54 19.23 1.75 19.34 1.75 19.35
+								 C1.75 19.39 0.29 20.53 0.25 20.53 C0.24 20.53 0.18 20.34 0.13 20.13 Z" class="st1"/>
+				</g>
+				<g id="shape3290-15" v:mID="3290" v:groupContext="shape" transform="translate(10.363,40.2752) scale(1,-1)">
+					<title>Лист.3290</title>
+					<path d="M0.11 20.37 C0.11 20.31 0.08 20.14 0.06 20 L0 19.74 L0.32 19.87 C0.74 20.04 0.74 20.06 0.47 20.28 C0.19
+								 20.51 0.11 20.53 0.11 20.37 Z" class="st1"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Создано Microsoft Visio, экспорт SVG Loup-letter.svg Страница-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="0.364064in" height="0.364064in"
+		viewBox="0 0 26.2126 26.2126" xml:space="preserve" color-interpolation-filters="sRGB" class="st3">
+	<v:documentProperties v:langID="1049" v:metric="true" v:viewMarkup="false"/>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#000000;stroke:none;stroke-linecap:butt;stroke-width:1.19531}
+		.st2 {fill:#000000;stroke:none;stroke-linecap:butt;stroke-width:0.612}
+		.st3 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>Страница-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="9"
+				v:shadowOffsetY="-9"/>
+		<g id="shape2499-1" v:mID="2499" v:groupContext="shape" transform="translate(1.19531,-1.19531)">
+			<title>Лист.2499</title>
+			<path d="M23.66 25.52 L23.13 26.05 C22.91 26.27 22.56 26.27 22.34 26.05 L16.34 20.04 C16.23 19.94 16.17 19.8 16.17 19.65
+						 L16.17 19.25 C14.46 20.81 12.18 21.75 9.68 21.75 C4.37 21.75 0.07 17.51 0 12.2 C-0.07 6.75 4.36 2.32 9.81
+						 2.39 C15.12 2.46 19.36 6.76 19.36 12.07 C19.36 14.57 18.42 16.85 16.86 18.56 L17.26 18.56 C17.41 18.56 17.55
+						 18.63 17.65 18.73 L23.66 24.73 C23.88 24.95 23.88 25.3 23.66 25.52 ZM17.87 12.07 C17.87 7.54 14.21 3.88
+						 9.68 3.88 C5.15 3.88 1.49 7.54 1.49 12.07 C1.49 16.6 5.15 20.26 9.68 20.26 C14.21 20.26 17.87 16.6 17.87
+						 12.07 Z" class="st1"/>
+		</g>
+		<g id="group2509-3" transform="translate(5.34352,-12.8751)" v:mID="2509" v:groupContext="group">
+			<title>Лист.2509</title>
+			<g id="group2496-4" v:mID="2496" v:groupContext="group">
+				<title>Лист.2496</title>
+				<g id="shape2497-5" v:mID="2497" v:groupContext="shape">
+					<title>Лист.2497</title>
+					<path d="M2.97 18.35 L3.57 18.35 L4.18 18.35 L7.01 26.21 L6.44 26.21 L5.87 26.21 L5.07 23.93 L1.93 23.93 L1.1
+								 26.21 L0.55 26.21 L0 26.21 L2.97 18.35 ZM2.26 22.99 L4.74 22.99 L3.53 19.5 L3.53 19.5 L2.26 22.99
+								 Z" class="st2"/>
+				</g>
+			</g>
+			<g id="group2507-7" transform="translate(7.7573,-1.01963E-12)" v:mID="2507" v:groupContext="group">
+				<title>Лист.2507</title>
+				<g id="shape2508-8" v:mID="2508" v:groupContext="shape">
+					<title>Лист.2508</title>
+					<path d="M1.56 22.08 L1.88 22.08 L2.2 22.08 L3.69 26.21 L3.38 26.21 L3.08 26.21 L2.66 25.01 L1.01 25.01 L0.58
+								 26.21 L0.29 26.21 L0 26.21 L1.56 22.08 ZM1.19 24.52 L2.49 24.52 L1.85 22.68 L1.85 22.68 L1.19 24.52
+								 Z" class="st2"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

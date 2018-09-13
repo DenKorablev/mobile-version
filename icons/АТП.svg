@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Создано Microsoft Visio, экспорт SVG АТП.svg Страница-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="0.371432in" height="0.320991in"
+		viewBox="0 0 26.7431 23.1113" xml:space="preserve" color-interpolation-filters="sRGB" class="st4">
+	<v:documentProperties v:langID="1049" v:metric="true" v:viewMarkup="false"/>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#000000;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st2 {fill:#000000;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:2}
+		.st3 {fill:#000000;stroke:#ffffff;stroke-width:0.5}
+		.st4 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>Страница-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="9"
+				v:shadowOffsetY="-9"/>
+		<g id="group2034-1" transform="translate(1,-1)" v:mID="2034" v:groupContext="group">
+			<title>Лист.2034</title>
+			<g id="shape2028-2" v:mID="2028" v:groupContext="shape" transform="translate(4.65701,-3.57906)">
+				<title>Лист.2028</title>
+				<rect x="0" y="16.9261" width="2.99495" height="6.18522" class="st1"/>
+			</g>
+			<g id="shape2029-4" v:mID="2029" v:groupContext="shape" transform="translate(15.0459,-3.57906)">
+				<title>Лист.2029</title>
+				<rect x="0" y="14.2567" width="2.99495" height="8.85463" class="st1"/>
+			</g>
+			<g id="shape2030-6" v:mID="2030" v:groupContext="shape" transform="translate(9.53729,-3.57906)">
+				<title>Лист.2030</title>
+				<rect x="0" y="10.7409" width="2.99495" height="12.3704" class="st1"/>
+			</g>
+			<g id="shape2031-8" v:mID="2031" v:groupContext="shape" transform="translate(19.2979,-3.57906)">
+				<title>Лист.2031</title>
+				<rect x="0" y="9.0481" width="2.99495" height="14.0632" class="st1"/>
+			</g>
+			<g id="shape2032-10" v:mID="2032" v:groupContext="shape">
+				<title>Лист.2032</title>
+				<path d="M0.58 2 L1.74 2 a0.583547 0.66377 0 0 1 0.583136 0.663303 L2.32 20.47 L24.17 20.47 a0.580171 0.65993 0 0
+							 1 0.563898 0.545486 L24.74 22.45 a0.68862 0.783289 0 0 1 -0.573082 0.663303 L0.58 23.11 a0.583476 0.66369
+							 0 0 1 -0.583136 -0.663303 L0 2.66 a0.583477 0.663691 0 0 1 0.583136 -0.663303 Z" class="st2"/>
+			</g>
+			<g id="shape2027-12" v:mID="2027" v:groupContext="shape" transform="translate(3.35737,-3.57906)">
+				<title>Лист.2027</title>
+				<path d="M7.38 13.05 L12.88 18.14 L20.35 8.06 L21.2 9.05 L13.04 19.89 L7.52 14.76 L0.89 23.11 L0 22.32 L7.38 13.05
+							 Z" class="st3"/>
+			</g>
+		</g>
+	</g>
+</svg>

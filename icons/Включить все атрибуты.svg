@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Создано Microsoft Visio, экспорт SVG Включить все атрибуты.svg Страница-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		width="0.377206in" height="0.341035in" viewBox="0 0 27.1589 24.5545" xml:space="preserve"
+		color-interpolation-filters="sRGB" class="st3">
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#24c2ff;stroke:none;stroke-linecap:butt;stroke-width:0.75}
+		.st2 {fill:#24c4ff;stroke:#ffffff;stroke-width:0.75}
+		.st3 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g>
+		<title>Страница-1</title>
+		<g id="group2427-1" transform="translate(0.75,-0.75)">
+			<title>Лист.2427</title>
+			<g id="shape2380-2">
+				<title>Лист.2380</title>
+				<rect x="0" y="20.6064" width="25.6589" height="3.94817" class="st1"/>
+			</g>
+			<g id="shape2381-4" transform="translate(14.1732,-12.7376)">
+				<title>Лист.2381</title>
+				<rect x="0" y="20.6064" width="11.4857" height="3.94817" class="st1"/>
+			</g>
+			<g id="shape2382-6" transform="translate(5.79536E-14,-6.36879)">
+				<title>Лист.2382</title>
+				<rect x="0" y="20.6064" width="25.6589" height="3.94817" class="st1"/>
+			</g>
+			<g id="shape2410-8" transform="translate(14.1732,-19.1064)">
+				<title>Лист.2410</title>
+				<rect x="0" y="20.6064" width="11.4857" height="3.94817" class="st1"/>
+			</g>
+			<g id="shape2414-10" transform="translate(0,-11.5145)">
+				<title>Лист.2414</title>
+				<path d="M0.21 20.18 L1.18 19.14 a0.90114 0.90114 0 0 1 1.15711 -0.0385702 A49.9509 49.9509 0 0 1 3.78 20.63 L9.81
+							 14.59 a0.917173 0.917173 0 0 1 1.20532 -0.192851 L11.98 15.36 a0.746776 0.746776 0 0 1 1.77636E-15 1.2921
+							 L4.51 24.23 A1.02812 1.02812 0 0 1 3.01 24.23 L0.21 21.34 a0.888685 0.888685 0 0 1 -8.32667E-15 -1.15711
+							 Z" class="st2"/>
+			</g>
+		</g>
+	</g>
+</svg>

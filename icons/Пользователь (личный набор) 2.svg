@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Создано Microsoft Visio, экспорт SVG Пользователь (личный набор) 2.svg Страница-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="0.370525in" height="0.418036in"
+		viewBox="0 0 26.6778 30.0986" xml:space="preserve" color-interpolation-filters="sRGB" class="st2">
+	<v:documentProperties v:langID="1049" v:metric="true" v:viewMarkup="false"/>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#000000;stroke:none;stroke-linecap:butt;stroke-width:1.36607}
+		.st2 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>Страница-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="9"
+				v:shadowOffsetY="-9"/>
+		<g id="shape1871-1" v:mID="1871" v:groupContext="shape" transform="translate(1.36607,-1.36607)">
+			<title>Лист.1871</title>
+			<path d="M11.97 16.42 C15.75 16.42 18.81 13.35 18.81 9.57 C18.81 5.79 15.75 2.73 11.97 2.73 C8.19 2.73 5.13 5.79 5.13
+						 9.57 C5.13 13.35 8.19 16.42 11.97 16.42 ZM16.76 18.13 L15.87 18.13 C14.68 18.67 13.36 18.98 11.97 18.98
+						 C10.58 18.98 9.27 18.67 8.08 18.13 L7.18 18.13 C3.22 18.13 0 21.34 0 25.31 L0 27.53 C0 28.95 1.15 30.1 2.57
+						 30.1 L21.38 30.1 C22.8 30.1 23.95 28.95 23.95 27.53 L23.95 25.31 C23.95 21.34 20.73 18.13 16.76 18.13 Z"
+					class="st1"/>
+		</g>
+	</g>
+</svg>

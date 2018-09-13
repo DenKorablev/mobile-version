@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Создано Microsoft Visio, экспорт SVG Увеличить.svg Страница-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="0.380088in" height="0.339969in"
+		viewBox="0 0 27.3663 24.4778" xml:space="preserve" color-interpolation-filters="sRGB" class="st2">
+	<v:documentProperties v:langID="1049" v:metric="true" v:viewMarkup="false"/>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#000000;stroke:none;stroke-linecap:butt;stroke-width:0.75}
+		.st2 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>Страница-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="9"
+				v:shadowOffsetY="-9"/>
+		<g id="shape1791-1" v:mID="1791" v:groupContext="shape" transform="translate(0.75,-0.75)">
+			<title>Увеличить.1791</title>
+			<v:userDefs>
+				<v:ud v:nameU="msvShapeCategories" v:prompt="" v:val="VT4(Icon)"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M7.77 15.86 A6.36846 6.47036 -180 0 0 14.13 9.4 A6.36846 6.47036 -180 0 0 7.77 2.94 A6.36846 6.47036 -180 0
+						 0 1.41 9.4 A6.36846 6.47036 -180 0 0 7.77 15.86 ZM22.13 21.19 A1.31851 1.3396 0 0 1 22.25 23.16 L21.42 24.06
+						 A1.24069 1.26054 0 0 1 19.53 24.01 L12.93 16.24 A1.93367 1.96461 0 0 1 12.58 15.6 A7.73381 7.85755 0 0 1
+						 7.77 17.3 A7.77431 7.8987 0 0 1 0 9.4 A7.77431 7.8987 0 0 1 7.77 1.5 A7.77476 7.89916 0 0 1 15.55 9.4 A7.73312
+						 7.85685 0 0 1 13.88 14.27 A1.9501 1.9813 0 0 1 14.51 14.63 L22.13 21.19 ZM8.77 5.09 L8.77 8.38 L12.01 8.38
+						 L12.01 10.41 L8.77 10.41 L8.77 13.71 L6.77 13.71 L6.77 10.41 L3.53 10.41 L3.53 8.38 L6.77 8.38 L6.77 5.09
+						 L8.77 5.09 Z" class="st1"/>
+		</g>
+	</g>
+</svg>

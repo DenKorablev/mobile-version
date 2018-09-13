@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Создано Microsoft Visio, экспорт SVG Предварительный просмотр.svg Страница-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="0.398551in" height="0.358709in"
+		viewBox="0 0 28.6957 25.827" xml:space="preserve" color-interpolation-filters="sRGB" class="st2">
+	<v:documentProperties v:langID="1049" v:metric="true" v:viewMarkup="false"/>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#000000;stroke:none;stroke-linecap:butt;stroke-width:0.75}
+		.st2 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>Страница-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="9"
+				v:shadowOffsetY="-9"/>
+		<g id="shape1916-1" v:mID="1916" v:groupContext="shape" transform="translate(0.75,-0.75)">
+			<title>Предварительный просмотр.1916</title>
+			<v:userDefs>
+				<v:ud v:nameU="msvShapeCategories" v:prompt="" v:val="VT4(Icon)"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M8.05 15.83 A5.82824 5.92149 -180 0 0 13.88 21.75 A5.79467 5.88739 -180 0 0 17.48 20.48 L17.74 20.95 L21.63
+						 25.48 a0.929476 0.944348 -180 0 0 1.41272 0.0356224 L23.67 24.84 a0.985643 1.00141 -180 0 0 -0.0872259 -1.47268
+						 L18.93 19.75 L18.46 19.48 A5.79274 5.88542 -180 0 0 19.71 15.83 A5.82769 5.92094 -180 0 0 13.88 9.91 A5.82842
+						 5.92168 -180 0 0 8.05 15.83 ZM9.11 15.83 A4.77516 4.85156 0 0 1 13.88 10.98 A4.77461 4.851 0 0 1 18.65 15.83
+						 A4.77461 4.851 0 0 1 13.88 20.67 A4.77516 4.85156 0 0 1 9.11 15.83 ZM14.32 1.5 L0 1.5 L0 24.96 L19.67 24.96
+						 L19.67 24.52 A2410.22 2448.78 -180 0 0 17.96 22.53 L17.96 23.22 L1.71 23.22 L1.71 3.24 L12.83 3.24 L12.83
+						 8.45 L17.96 8.45 L17.96 10.46 A6.71582 6.82327 0 0 1 19.67 12.45 L19.67 6.93 L14.32 1.5 ZM13.68 7.58 L13.68
+						 3.45 L17.74 7.58 L13.68 7.58 Z" class="st1"/>
+		</g>
+	</g>
+</svg>
