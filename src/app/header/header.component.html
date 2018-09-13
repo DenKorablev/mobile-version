@@ -1,7 +1,8 @@
 <header> 
     <div *ngIf="openNavigationMenu == null" class="l-header-search">
-            <input type="text" class="search-field">
-        </div>
+        <input placeholder="Поиск" type="text" class="search-field">
+        <a class="search-settings"></a>
+    </div>
     <div (click)="navigationMenu()" class="l-header-menu" [ngClass]="openNavigationMenu == null ? ' is-menu-active' : ''">
         <app-burger-menu class='l-header-hamburger'></app-burger-menu>
     </div>
