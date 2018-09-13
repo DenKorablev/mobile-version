@@ -22,10 +22,6 @@ header {
     height: 100%;
 }
 
-.content {
-    flex: 1 0 auto;
-}
-
 .indent-null {
     margin: 0;
     padding: 0;
@@ -39,7 +35,7 @@ footer {
     border: 1px dashed #83a4b8;
     border-left: none;
     border-right: none;
-    border-width: 2px;
+    border-width: 1px;
 }
 
 ul {
@@ -52,4 +48,17 @@ li {
 
 a {
     text-decoration: none;
+}
+
+h1 {
+    font-size: 17px;
+}
+
+h2 {
+    font-size: 16px;
+}
+
+p {
+    margin: 0;
+    padding: 0;
 }

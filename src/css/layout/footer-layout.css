@@ -1,0 +1,10 @@
+.l-footer-element {
+    display: flex;
+    flex: 2;
+    border-right: 1px dashed #83a4b8;
+    border-width: 1px;
+}
+
+.l-footer-element:last-child {
+    border: none;
+}

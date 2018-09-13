@@ -12,8 +12,11 @@
         <app-profile></app-profile>   
     </div>
 </header>
-<div>
+<div class = "l-content">
     <app-nav-menu *ngIf="openNavigationMenu == null"></app-nav-menu>
     <app-profile-menu *ngIf="openProfileMenu == null"></app-profile-menu>
+    <p *ngIf="openProfileMenu != null && openNavigationMenu != null" class="l-content-text">
+        <Главная страница не задана. Нет данных для отображения>
+    </p>
 </div>
 

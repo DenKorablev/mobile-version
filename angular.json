@@ -28,7 +28,9 @@
               "src/css/theme.css",
               "src/css/icon.css",
               "src/css/layout/header-layout.css",
-              "src/css/layout/menu-layout.css"
+              "src/css/layout/menu-layout.css",
+              "src/css/layout/content-layout.css",
+              "src/css/layout/footer-layout.css"
             ],
             "scripts": []
           },
@@ -82,7 +84,9 @@
               "src/css/theme.css",
               "src/css/icon.css",
               "src/css/layout/header-layout.css",
-              "src/css/layout/menu-layout.css"
+              "src/css/layout/menu-layout.css",
+              "src/css/layout/content-layout.css",
+              "src/css/layout/footer-layout.css"
             ],
             "scripts": [],
             "assets": [
