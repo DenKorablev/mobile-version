@@ -24,11 +24,11 @@
             ],
             "styles": [
               "src/css/base.css",
-              "src/css/header-layout.css",
-              "src/css/menu-layout.css",
               "src/css/state.css",
               "src/css/theme.css",
-              "src/css/icon.css"
+              "src/css/icon.css",
+              "src/css/layout/header-layout.css",
+              "src/css/layout/menu-layout.css"
             ],
             "scripts": []
           },
@@ -78,11 +78,11 @@
             "karmaConfig": "src/karma.conf.js",
             "styles": [
               "src/css/base.css",
-              "src/css/header-layout.css",
-              "src/css/menu-layout.css",
               "src/css/state.css",
               "src/css/theme.css",
-              "src/css/icon.css"
+              "src/css/icon.css",
+              "src/css/layout/header-layout.css",
+              "src/css/layout/menu-layout.css"
             ],
             "scripts": [],
             "assets": [
