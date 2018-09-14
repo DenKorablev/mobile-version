@@ -1,6 +1,7 @@
 <header> 
     <div *ngIf="openNavigationMenu == null" class="l-header-search">
         <input placeholder="Поиск" type="text" class="search-field">
+        <a class="magnify-icon"></a>       
         <a class="search-settings"></a>
     </div>
     <div (click)="navigationMenu()" class="l-header-menu" [ngClass]="openNavigationMenu == null ? ' is-menu-active' : ''">

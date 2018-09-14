@@ -3,8 +3,11 @@ html, body {
     padding: 0;
     width: 100%;
     font: 14px 'Segoe UI',Tahoma,"Helvetica Neue",sans-serif;
-    overflow: auto;
     height: 100%;
+}
+
+.lightbox {
+    background-color: rgba(0,0,0,0.3);
 }
 
 header {

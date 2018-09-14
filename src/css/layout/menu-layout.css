@@ -4,6 +4,14 @@
     padding-top: 10px;
 }
 
+.l-menu-full-content {
+    background: white;
+}
+
+.l-menu-content {
+    overflow: auto;
+}
+
 .l-menu-item {
     padding: 5px;
     padding-left: 50px;
