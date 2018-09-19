@@ -26,11 +26,7 @@
               "src/css/base.css",
               "src/css/state.css",
               "src/css/theme.css",
-              "src/css/icon.css",
-              "src/css/layout/header-layout.css",
-              "src/css/layout/menu-layout.css",
-              "src/css/layout/content-layout.css",
-              "src/css/layout/footer-layout.css"
+              "src/css/icon.css"
             ],
             "scripts": []
           },
@@ -82,11 +78,7 @@
               "src/css/base.css",
               "src/css/state.css",
               "src/css/theme.css",
-              "src/css/icon.css",
-              "src/css/layout/header-layout.css",
-              "src/css/layout/menu-layout.css",
-              "src/css/layout/content-layout.css",
-              "src/css/layout/footer-layout.css"
+              "src/css/icon.css"
             ],
             "scripts": [],
             "assets": [

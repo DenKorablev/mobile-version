@@ -1,38 +1,38 @@
-<div class="profile-menu">
+<div fxLayout="row" class="profile">
     <div class="lightbox" [ngStyle]="sizeLightboxBlock()"></div>
-    <div class="l-menu-full-content">
-        <div class="l-menu-title">
-            <span class="l-menu-item">Петр Петрович/Indusoft<br>
-                <span class="l-menu-small-text">Администратор системы</span>
+    <div class="profile__menu">
+        <div class="profile__title">
+            <span class="profile__item">Петр Петрович/Indusoft<br>
+                <span class="profile__small-text">Администратор системы</span>
             </span>  
         </div>
-        <div class="l-menu-content" [ngStyle]="sizeContentBlock()">
-            <ul  class="l-menu indent-null">
-                <li class="l-menu-item" *ngFor="let item of profileItems">
+        <div class="scrollbar" [ngStyle]="sizeContentBlock()">
+            <ul  class="profile__block indent-null">
+                <li class="profile__item" *ngFor="let item of profileItems">
                 <a>
                     {{item}}
                 </a>
                 </li>
             </ul> 
-            <div class=" l-menu-border"></div>
-            <ul  class="l-menu indent-null">
-                <li class="l-menu-item" *ngFor="let item of settingItems">
+            <div class="border-line"></div>
+            <ul  class="profile__block indent-null">
+                <li class="profile__item" *ngFor="let item of settingItems">
                 <a>
                     {{item}}
                 </a>
                 </li>
             </ul> 
-            <div class=" l-menu-border"></div>
-            <ul  class="l-menu indent-null">
-                <li class="l-menu-item" *ngFor="let item of modeItems">
+            <div class="border-line"></div>
+            <ul  class="profile__block indent-null">
+                <li class="profile__item" *ngFor="let item of modeItems">
                 <a>
                     {{item}}
                 </a>
                 </li>
             </ul> 
-            <div class=" l-menu-border"></div>
-            <ul  class="l-menu indent-null">
-                <li class="l-menu-item exit-icon">
+            <div class="border-line"></div>
+            <ul  class="profile__block indent-null">
+                <li class="profile__item exit-icon">
                 <a>Завершить сеанс</a>
                 </li>
             </ul>

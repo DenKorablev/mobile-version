@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { MainService } from '../main.service'
 
 @Component({
   selector: 'app-header',
@@ -7,20 +8,19 @@ import { Component } from '@angular/core';
 })
 export class HeaderComponent {
 
-  public openNavigationMenu = "is-hidden" ;
-  public openProfileMenu = "is-hidden" ;
+  public navigationMenuOpened : boolean;
+  public profileMenuOpened : boolean;
 
-  navigationMenu(): void {
-    this.openNavigationMenu == null 
-      ? this.openNavigationMenu = "is-hidden" 
-      : this.openNavigationMenu = null;
-    this.openProfileMenu = "is-hidden" 
+  constructor() {
+  }
+
+  toggleNavigationMenu(): void {
+    this.navigationMenuOpened = !this.navigationMenuOpened;
+    this.profileMenuOpened = false;
   }
   
-  profileMenu(): void {
-    this.openProfileMenu == null 
-      ? this.openProfileMenu = "is-hidden" 
-      : this.openProfileMenu = null;
-    this.openNavigationMenu = "is-hidden"      
+  toggleProfileMenu(): void {
+    this.profileMenuOpened = !this.profileMenuOpened;
+    this.navigationMenuOpened = false;
   }
 }

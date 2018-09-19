@@ -1,9 +1,9 @@
-.favorite {
+.panel__favorite {
     width: 45px;
-    height: 34px;  
+    height: 45px;  
 }
 
-.message {
+.panel__message {
     width: 45px;
-    height: 34px;
+    height: 45px;
 }

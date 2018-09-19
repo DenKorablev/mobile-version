@@ -8,6 +8,9 @@ import { PanelComponent } from './panel/panel.component';
 import { NavMenuComponent } from './nav-menu/nav-menu.component';
 import { ProfileMenuComponent } from './profile-menu/profile-menu.component';
 import { FlexLayoutModule } from '@angular/flex-layout';
+import { FooterComponent } from './footer/footer.component';
+import { ContentComponent } from './content/content.component';
+import { MainService } from './main.service';
 
 @NgModule({
   declarations: [
@@ -17,13 +20,15 @@ import { FlexLayoutModule } from '@angular/flex-layout';
     ProfileComponent,
     PanelComponent,
     NavMenuComponent,
-    ProfileMenuComponent
+    ProfileMenuComponent,
+    FooterComponent,
+    ContentComponent
   ],
   imports: [
     BrowserModule,
     FlexLayoutModule
   ],
-  providers: [],
+  providers: [MainService],
   bootstrap: [AppComponent]
 })
 export class AppModule { }

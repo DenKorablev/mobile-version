@@ -1,24 +1,22 @@
 <header> 
-    <div *ngIf="openNavigationMenu == null" class="l-header-search">
-        <input placeholder="Поиск" type="text" class="search-field">
-        <a class="magnify-icon"></a>       
-        <a class="search-settings"></a>
+    <div fxLayout="row" fxFlex="80 0 auto" style="height: 30px;" *ngIf="navigationMenuOpened">
+        <div class="search__magnify magnify-icon"></div>
+        <input placeholder="Поиск" type="text" class="search__search-field">
+        <div class="search__setting settings-search-icon"></div>
     </div>
-    <div (click)="navigationMenu()" class="l-header-menu" [ngClass]="openNavigationMenu == null ? ' is-menu-active' : ''">
-        <app-burger-menu class='l-header-hamburger'></app-burger-menu>
+    <div fxLayout="row" [ngClass]="navigationMenuOpened ? ' is-menu-active' : ''" (click)="toggleNavigationMenu()">
+        <app-burger-menu class='header__hamburger'></app-burger-menu>
     </div>
-    <div *ngIf="openNavigationMenu != null" class="l-header-panel-system">
+    <div fxLayout="row-reverse" fxFlex="80 0 auto" *ngIf="!navigationMenuOpened">
         <app-panel></app-panel>       
     </div>
-    <div (click)='profileMenu()' class="l-header-profile" [ngClass]="openProfileMenu == null ? 'is-menu-active' : ''">
+    <div fxLayout="row" [ngClass]="profileMenuOpened ? 'is-menu-active' : ''" (click)='toggleProfileMenu()'>
         <app-profile></app-profile>   
     </div>
 </header>
-<div class = "l-content">
-    <app-nav-menu *ngIf="openNavigationMenu == null"></app-nav-menu>
-    <app-profile-menu *ngIf="openProfileMenu == null"></app-profile-menu>
-    <p *ngIf="openProfileMenu != null && openNavigationMenu != null" class="l-content-text">
-        <Главная страница не задана. Нет данных для отображения>
-    </p>
-</div>
+<app-nav-menu *ngIf="navigationMenuOpened"></app-nav-menu>
+<app-profile-menu *ngIf="profileMenuOpened"></app-profile-menu>
+<p *ngIf="!profileMenuOpened && !navigationMenuOpened" class="header__content-text">
+    <Главная страница не задана. Нет данных для отображения>
+</p>
 

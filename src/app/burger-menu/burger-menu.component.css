@@ -1,6 +1,6 @@
-.header-hamburger-icon,
-.header-hamburger-icon::after,
-.header-hamburger-icon::before  {
+.burger-icon,
+.burger-icon::after,
+.burger-icon::before  {
     cursor: pointer;
     height: 2px;
     width: 23px;
@@ -8,16 +8,16 @@
     position: relative;
     display: block;
     content: '';
-    top: 16px;
+    top: 23px;
     left: 5px;
 }
 
-.header-hamburger-icon::after {
+.burger-icon::after {
     top: -10px;
     left: 0px;
 }
 
-.header-hamburger-icon::before {
+.burger-icon::before {
     top: 8px;
     left: 0px;
 }

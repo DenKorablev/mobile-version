@@ -16,11 +16,11 @@ export class ProfileMenuComponent {
     return { "width": `${header}px` };
   }
 
-  @HostListener('window:resize', ['$event'])
+  @HostListener('window:resize')
   sizeContentBlock(): any {
     let header = document.querySelector('header').clientHeight;
     let height = window.innerHeight - header * 2;
-    let width = window.outerWidth - header;
+    let width = window.innerWidth - header;
     return { "height": `${height}px`, "width": `${width}px` };
   }
 }
