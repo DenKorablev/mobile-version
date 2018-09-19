@@ -1,8 +1,10 @@
 <header> 
-    <div fxLayout="row" fxFlex="80 0 auto" style="height: 30px;" *ngIf="navigationMenuOpened">
-        <div class="search__magnify magnify-icon"></div>
-        <input placeholder="Поиск" type="text" class="search__search-field">
-        <div class="search__setting settings-search-icon"></div>
+    <div *ngIf="navigationMenuOpened">
+        <div #searchContainer fxLayout="row" fxFlex="80 0 auto" class="search-container">
+                <div class="search__magnify magnify-icon"></div>
+                <input placeholder="Поиск" type="text" class="search__search-field" (focus)="visibleFocusBorder()">
+                <div class="search__setting settings-search-icon"></div>
+        </div>
     </div>
     <div fxLayout="row" [ngClass]="navigationMenuOpened ? ' is-menu-active' : ''" (click)="toggleNavigationMenu()">
         <app-burger-menu class='header__hamburger'></app-burger-menu>
