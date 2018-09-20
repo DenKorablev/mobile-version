@@ -11,7 +11,7 @@ export class HeaderComponent {
 
   public navigationMenuOpened : boolean;
   public profileMenuOpened : boolean;
-
+  public focusToElement: boolean;
   constructor() {
   }
 
@@ -25,8 +25,11 @@ export class HeaderComponent {
     this.navigationMenuOpened = false;
   }
 
-  @ViewChild('searchContainer') searchContainer: ElementRef;
   visibleFocusBorder(): void {
-    this.searchContainer.nativeElement.classList.add('is-focus');
+    this.focusToElement = true;
+  }
+
+  hiddenFocusBorder(): void {
+    this.focusToElement = false;
   }
 }
