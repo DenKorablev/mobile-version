@@ -1,6 +1,6 @@
 <header> 
-    <div *ngIf="navigationMenuOpened">
-        <div fxLayout="row" fxFlex="80 0 auto" class="search-container">
+    <div fxLayout="row" fxFlex="80 0 auto" *ngIf="navigationMenuOpened">
+        <div fxLayout="row" fxFlex="80 0 auto" [ngClass]="focusToElement ? 'is-focus' : ''" class="search-container">
                 <div class="search__magnify magnify-icon"></div>
                 <input placeholder="Поиск" type="text" class="search__search-field" (focus)="visibleFocusBorder()" (blur)="hiddenFocusBorder()">
                 <div class="search__setting settings-search-icon"></div>
